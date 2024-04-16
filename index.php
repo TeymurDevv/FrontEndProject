@@ -21,77 +21,7 @@
 
 
 
-<script>
-        $(document).ready(function () {
-            $('.slider1').slick({
-
-                infinite: true,
-                slidesToShow: 4,
-                slidesToScroll: 1,
-                autoplay: true, responsive: [
-                    {
-                        breakpoint: 1024,
-                        settings: {
-                            slidesToShow: 2,
-                            slidesToScroll: 1,
-                            infinite: true,
-                            dots: true
-                        }
-                    },
-                ],
-                prevArrow: ' <span class="priv_arrow"><i class="fa-solid fa-arrow-left"></i></span>',
-                nextArrow: ' <span class="next_arrow"><i class="fa-solid fa-arrow-right"></i></span>'
-            });
-
-            $(".silder2").slick({
-                infinite: true,
-                slidesToShow: 1,
-                slidesToScroll: 1,
-                dots: true,
-                autoplay: true,
-                autoplaySpeed: 2000,
-            })
-            $(".slider3").slick({
-                infinite: true,
-                slidesToShow: 3,
-                slidesToScroll: 1,
-                dots: true,
-                autoplay: true,
-                prevArrow: ' <span class="priv_arrow"><i class="fa-solid fa-arrow-left"></i></span>',
-                nextArrow: ' <span class="next_arrow"><i class="fa-solid fa-arrow-right"></i></span>',
-                autoplaySpeed: 2000,
-                responsive: [
-                    {
-                        breakpoint: 1024,
-                        settings: {
-                            slidesToShow: 2,
-                            slidesToScroll: 1,
-                            infinite: true,
-                            dots: true
-                        }
-                    },
-                ],
-            })
-            $(".slider4").slick({
-                infinite: true,
-                slidesToShow: 6,
-                slidesToScroll: 1,
-                prevArrow: ' <span class="priv_arrow"><i class="fa-solid fa-arrow-left"></i></span>',
-                nextArrow: ' <span class="next_arrow"><i class="fa-solid fa-arrow-right"></i></span>',
-                responsive: [
-                    {
-                        breakpoint: 1024,
-                        settings: {
-                            slidesToShow: 4,
-                            slidesToScroll: 1,
-                            infinite: true,
-                            dots: true
-                        }
-                    },
-                ],
-            })
-        });
 
 
-    </script>
+
 <script src="./assets/bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
