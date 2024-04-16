@@ -1,0 +1,74 @@
+.footer-container{
+    max-width: 1200px;
+    color: white;
+    padding: 1rem;
+}
+.footer-row{
+    margin-top: 51px;
+}
+.footer-text{
+    margin-bottom: 1.25rem;
+    margin-top: 0px;
+    color: rgb(174, 180, 190);
+}
+
+.footer-icons{
+    cursor: pointer;
+    box-shadow: none;
+    margin: 0.5rem;
+    color: white;
+    padding: 10px 16px;
+    display: flex;
+    background-color: rgb(12, 42, 77);
+    border-radius: 5px;
+    align-items: center;
+}
+.second-title{
+    font-size: 8px;
+    font-weight: 600;
+    line-height: 1;
+    margin-left: 10px;
+}
+.main-title{
+    font-size: 14px;
+    font-weight: 900;
+}
+
+.second-title {
+    font-size: 8px;
+    font-weight: 600;
+    line-height: 1;
+    margin-left: 10px;
+}
+
+.about-us{
+    margin-bottom: 1.25rem;
+    line-height: 1;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.color{
+    color: rgb(174, 180, 190); ;
+}
+
+.customer-care{
+    margin-bottom: 1.25rem;
+    line-height: 1;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.contact-us{
+    margin-bottom: 1.25rem;
+    line-height: 1;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.last-icons{
+    display: flex; 
+    flex-direction: row;
+}
+
+

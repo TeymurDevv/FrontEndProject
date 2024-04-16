@@ -1,13 +1,19 @@
 <footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-3">
+    <div class="container-fluid" style="background-color: #0F3460;">
+        <div class="container" style="max-width: 1200px;
+        color: white;
+        padding: 1rem;">
+        <div class="row" style="    margin-top: 51px;
+        ">
+            <div class="col-lg-3 col-md-6 col-sm-6">
 
-                <img src="../assets/img/logo.svg" class="mb-4 " alt="">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in
+                <img src="./assets/img/logo.svg" class="mb-4 " alt="">
+                <p style="margin-bottom: 1.25rem;
+    margin-top: 0px;
+    color: rgb(174, 180, 190);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in
                     gravida. Sit diam duis mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.</p>
-                <div class="d-flex mb-5">
-                    <div class="w-50 ">
+                <div class="footerall d-flex mb-5  ">
+                    <div class="FooterIcon w-50 ">
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                             class="injected-svg" data-src="/assets/images/icons/play-store.svg"
                             xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
@@ -43,12 +49,12 @@
                                 </clipPath>
                             </defs>
                         </svg>
-                        <div>
+                        <div class="secondlyTitle">
                             <div>Get it on</div>
                             <div class="MainTitle">Google Play</div>
                         </div>
                     </div>
-                    <div>
+                    <div class="footerIcon2">
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                             class="injected-svg" data-src="/assets/images/icons/app-store.svg"
                             xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
@@ -72,50 +78,57 @@
                                 d="M14.3272 5.7907C14.2461 5.48836 14.0522 5.23561 13.7812 5.07914C13.2217 4.75608 12.5035 4.9484 12.1804 5.50809L12 5.82047V10.508L14.2101 6.67996C14.3666 6.40889 14.4082 6.09309 14.3272 5.7907Z"
                                 fill="#F2F2F2"></path>
                         </svg>
-                        <div>
+                        <div class="secondlyTitle">
                             <div>dowland it on</div>
-                            <div>App Store</div>
+                            <div class="MainTitle">App Store</div>
                         </div>
 
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 d-flex flex-column  ">
-                <h1>About Us</h1>
-                <span class="mb-2 ">Careers</span>
-                <span class="mb-2 ">Our Stores</span>
-                <span class="mb-2 ">Our Cares</span>
-                <span class="mb-2 ">Terms & Conditions</span>
-                <span class="mb-2 ">Privacy Policy</span>
+            <div class="col-lg-3 col-sm-6 col-md-6 d-flex flex-column  ">
+                <h1 style="    margin-bottom: 1.25rem;
+    line-height: 1;
+    font-size: 25px;
+    font-weight: 600;">About Us</h1>
+                <span style="  color: rgb(174, 180, 190); ;" class="mb-2 ">Careers</span>
+                <span style="  color: rgb(174, 180, 190); " class="mb-2 ">Our Stores</span>
+                <span style="  color: rgb(174, 180, 190);" class="mb-2 ">Our Cares</span>
+                <span style="  color: rgb(174, 180, 190);" class="mb-2 ">Terms & Conditions</span>
+                <span style="  color: rgb(174, 180, 190);" class="mb-2 ">Privacy Policy</span>
 
 
             </div>
-            <div class="col-lg-3 d-flex  flex-COLUMN ">
-                <h1>Customer Care
+            <div class="col-lg-3 col-md-6 col-sm-6 d-flex  flex-column ">
+                <h1 style="    margin-bottom: 1.25rem;
+    line-height: 1;
+    font-size: 25px;
+    font-weight: 600;">Customer Care
                 </h1>
-                <span>
+                <span style="  color: rgb(174, 180, 190);" class="mb-2 ">
                 </span>
-                <span>Help Center
+                <span style="  color: rgb(174, 180, 190);" class="mb-2 ">Help Center
                 </span>
-                <span>how to buy
+                <span style="  color: rgb(174, 180, 190);" class="mb-2 ">how to buy
                 </span>
-                <span class="mb-2 ">Track Your Order
+                <span style="  color: rgb(174, 180, 190);" class="mb-2 ">Track Your Order
                 </span>
-                <span class="mb-2 ">Corporate & Bulk Purchasing</span>
-                <span class="mb-2 ">Returns & Refunds</span>
+                <span style="  color: rgb(174, 180, 190);" class="mb-2 ">Corporate & Bulk Purchasing</span>
+                <span style="  color: rgb(174, 180, 190);" class="mb-2 ">Returns & Refunds</span>
 
 
             </div>
-            <div class="col-lg-3">
-                <h1>Contact Us</h1>
-                <span>70 Washington Square South, New York, NY 10012, United
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <h1 style="margin-bottom: 1.25rem; line-height: 1; font-size: 25px; font-weight: 600;">Contact Us</h1>
+                <span style="color: rgb(174, 180, 190);">70 Washington Square South, New York, NY 10012, United
                     States</span>
-                <span>Email: uilib.help@gmail.com</span>
-                <span>Our Cares</span>
-                <span>Phone: +1 1123 456 780</span>
+                <span style="color: rgb(174, 180, 190);">Email: uilib.help@gmail.com</span>
+                <span style="color: rgb(174, 180, 190);">Our Cares</span>
+                <span style="color: rgb(174, 180, 190);">Phone: +1 1123 456 780</span>
 
-                <div>
-                    <div>
+                <div class="iconsFooterLast" style="display: flex; flex-direction: row;">
+                    <!-- Repeated SVG -->
+                    <div style="margin: 5px; padding: 10px; border-radius: 132%; background-color: rgba(0, 0, 0, 0.2);">
                         <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 8 14" fill="none"
                             class="injected-svg" data-src="/assets/images/icons/facebook.svg"
                             xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
@@ -125,7 +138,8 @@
                         </svg>
 
                     </div>
-                    <div>
+                    <div
+                        style="margin: 5px; padding: 10px; border-radius: 132%; background-color: rgba(0, 0, 0, 0.2); color: w;">
                         <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 8 14" fill="none"
                             class="injected-svg" data-src="/assets/images/icons/facebook.svg"
                             xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
@@ -136,7 +150,7 @@
 
 
                     </div>
-                    <div>
+                    <div style="margin: 5px; padding: 10px; border-radius: 132%; background-color: rgba(0, 0, 0, 0.2);">
                         <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 8 14" fill="none"
                             class="injected-svg" data-src="/assets/images/icons/facebook.svg"
                             xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
@@ -146,7 +160,7 @@
                         </svg>
 
                     </div>
-                    <div>
+                    <div style="margin: 5px; padding: 10px; border-radius: 132%; background-color: rgba(0, 0, 0, 0.2);">
                         <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 8 14" fill="none"
                             class="injected-svg" data-src="/assets/images/icons/facebook.svg"
                             xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
@@ -156,7 +170,7 @@
                         </svg>
 
                     </div>
-                    <div>
+                    <div style="margin: 5px; padding: 10px; border-radius: 132%; background-color: rgba(0, 0, 0, 0.2);">
                         <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 8 14" fill="none"
                             class="injected-svg" data-src="/assets/images/icons/facebook.svg"
                             xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
@@ -170,4 +184,5 @@
                 </div>
             </div>
         </div>
+    </div>
 </footer>
