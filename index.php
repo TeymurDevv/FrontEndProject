@@ -22,12 +22,12 @@
     <section id="main">
         <div class="container">
             <div class="row justify-content-end  ">
-                <div class="col-lg-3 d-none"></div>
-                <div class="col-lg-9 ">
+                <div class="col-lg-3 col-sm-3 d-none"></div>
+                <div class="col-lg-9 col-sm-12 ">
                     <div class="slider">
                         <div>
                             <div class="row align-items-center">
-                                <div class="col-lg-9 ">
+                                <div class="col-lg-9 col-sm-9 ">
                                     <div class="slider-text">
                                         <h1 class="title">50% Off For Your First Shopping</h1>
                                         <p class="description">Lorem ipsum dolor sit amet,
@@ -38,7 +38,7 @@
                                         <button>Shop Now</button>
                                     </div>
                                 </div>
-                                <div class="col-lg-3">
+                                <div class="col-lg-3 col-sm-3">
                                     <div class="d-flex justify-content-end ">
                                         <img src="./assets/img/apple-watch-0.png" alt="">
                                     </div>
@@ -47,7 +47,7 @@
                         </div>
                         <div>
                             <div class="row align-items-center">
-                                <div class="col-lg-9 ">
+                                <div class="col-lg-9 col-sm-9 ">
                                     <div class="slider-text">
                                         <h1 class="title">50% Off For Your First Shopping</h1>
                                         <p class="description">Lorem ipsum dolor sit amet,
@@ -58,7 +58,7 @@
                                         <button>Shop Now</button>
                                     </div>
                                 </div>
-                                <div class="col-lg-3">
+                                <div class="col-lg-3 col-sm-3">
                                     <div class="d-flex justify-content-end ">
                                         <img src="./assets/img/apple-watch-0.png" alt="">
                                     </div>
