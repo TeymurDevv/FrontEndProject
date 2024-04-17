@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/bootstrap-5.3.3-dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="./assets/fontawesome-pro-6.5.1-web/css/all.min.css">
+    <link rel="stylesheet" href="./assets/slick/slick.css">
+    <link rel="stylesheet" href="./assets/slick/slick-theme.css">
     <link rel="stylesheet" href="./assets/css/header.css">
     <link rel="stylesheet" href="./assets/css/header2.css">
     <link rel="stylesheet" href="./assets/css/sidebar.css">
@@ -77,26 +79,27 @@
 
 <script src="./assets/bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
 <script src="./assets/jQuery/jquery-3.7.1.min.js"></script>
+<script src="./assets/slick/slick.min.js"></script>
 
 <script>
         $(document).ready(function () {
             $('.slider').slick({
 
                 infinite: true,
-                slidesToShow: 4,
-                slidesToScroll: 1,
+                slidesToShow: 1,
+                slidesToScroll: 2,
                 autoplay: true, responsive: [
                     {
                         breakpoint: 1024,
                         settings: {
-                            slidesToShow: 2,
-                            slidesToScroll: 1,
+                            slidesToShow: 1,
+                            slidesToScroll: 2,
                             infinite: true,
                             dots: true
                         }
                     },
                 ],
-                prevArrow: ' <span class="priv_arrow"><i class="fa-solid fa-arrow-left"></i></span>',
+                prevArrow: ' <span class="previous_arrow"><i class="fa-solid fa-arrow-left"></i></span>',
                 nextArrow: ' <span class="next_arrow"><i class="fa-solid fa-arrow-right"></i></span>'
             });
         });
