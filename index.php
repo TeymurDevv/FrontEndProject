@@ -1,6 +1,6 @@
-
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,12 +11,67 @@
     <link rel="stylesheet" href="./assets/css/sidebar.css">
     <title>Document</title>
 </head>
+
 <body>
     <?php require("./layouts/header.php") ?>
     <?php require("./layouts/header1.php") ?>
     <?php require("./layouts/sidebar.php") ?>
+    <section id="main">
+        <div class="container">
+            <div class="row justify-content-end  ">
+                <div class="col-lg-3 d-none"></div>
+                <div class="col-lg-9 ">
+                    <div class="slider">
+                        <div>
+                            <div class="row align-items-center">
+                                <div class="col-lg-9 ">
+                                    <div class="slider-text" style="margin-right: 82px;">
+                                        <h1 class="title">50% Off For Your First Shopping</h1>
+                                        <p class="description" style="font-size: 13px;">Lorem ipsum dolor sit amet,
+                                            consectetur
+                                            adipiscing elit. Quis
+                                            lobortis consequat
+                                            eu, quam etiam <br> at quis ut convalliss.</p>
+                                        <button>Shop Now</button>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="imgKeep d-flex justify-content-end ">
+                                        <img src="./assets/img/apple-watch-0.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="row align-items-center">
+                                <div class="col-lg-9 ">
+                                    <div class="slider-text" style="margin-right: 82px;">
+                                        <h1 class="title">50% Off For Your First Shopping</h1>
+                                        <p class="description" style="font-size: 13px;">Lorem ipsum dolor sit amet,
+                                            consectetur
+                                            adipiscing elit. Quis
+                                            lobortis consequat
+                                            eu, quam etiam <br> at quis ut convalliss.</p>
+                                        <button>Shop Now</button>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="imgKeep d-flex justify-content-end ">
+                                        <img src="./assets/img/apple-watch-0.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
     <?php require("./layouts/footer.php") ?>
 </body>
+
 </html>
 
 
