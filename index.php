@@ -25,9 +25,9 @@
                         <div>
                             <div class="row align-items-center">
                                 <div class="col-lg-9 ">
-                                    <div class="slider-text" style="margin-right: 82px;">
+                                    <div class="slider-text">
                                         <h1 class="title">50% Off For Your First Shopping</h1>
-                                        <p class="description" style="font-size: 13px;">Lorem ipsum dolor sit amet,
+                                        <p class="description">Lorem ipsum dolor sit amet,
                                             consectetur
                                             adipiscing elit. Quis
                                             lobortis consequat
@@ -36,7 +36,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-3">
-                                    <div class="imgKeep d-flex justify-content-end ">
+                                    <div class="d-flex justify-content-end ">
                                         <img src="./assets/img/apple-watch-0.png" alt="">
                                     </div>
                                 </div>
@@ -45,9 +45,9 @@
                         <div>
                             <div class="row align-items-center">
                                 <div class="col-lg-9 ">
-                                    <div class="slider-text" style="margin-right: 82px;">
+                                    <div class="slider-text">
                                         <h1 class="title">50% Off For Your First Shopping</h1>
-                                        <p class="description" style="font-size: 13px;">Lorem ipsum dolor sit amet,
+                                        <p class="description">Lorem ipsum dolor sit amet,
                                             consectetur
                                             adipiscing elit. Quis
                                             lobortis consequat
@@ -56,7 +56,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-3">
-                                    <div class="imgKeep d-flex justify-content-end ">
+                                    <div class="d-flex justify-content-end ">
                                         <img src="./assets/img/apple-watch-0.png" alt="">
                                     </div>
                                 </div>
