@@ -1037,6 +1037,24 @@
             prevArrow: ' <span class="previous_arrow"><i class="fa-solid fa-arrow-left"></i></span>',
             nextArrow: ' <span class="next_arrow"><i class="fa-solid fa-arrow-right"></i></span>'
         });
+
+        $('.flash-slider').slick({
+
+infinite: true,
+slidesToShow: 4,
+slidesToScroll: 1,
+autoplay: true, responsive: [
+    {
+        breakpoint: 1024,
+        settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1,
+            infinite: true,
+            dots: true
+        }
+    },
+],
+});
     });
 
 
