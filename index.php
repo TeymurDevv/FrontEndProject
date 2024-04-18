@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="./assets/css/header2.css">
     <link rel="stylesheet" href="./assets/css/sidebar.css">
     <link rel="stylesheet" href="./assets/css/slider.css">
+    <link rel="stylesheet" href="./assets/css/flash-products.css">
     <title>Document</title>
 </head>
 
@@ -93,15 +94,15 @@
                 <div class="col-lg-12">
                     <div class="flash-slider">
                         <div>
-                            <div class="flash-card">
-                                <div class="" data-id="1">
-                                    <div class="">
-                                        <div class="">25<!-- -->% off</div>
+                            <div>
+                                <div class="flash-card" data-id="1">
+                                    <div class="imageSection">
+                                        <div class="icons">25<!-- -->% off</div>
                                         <img src="./assets/img/flash-1.webp" alt="">
                                     </div>
-                                    <div class="">
-                                        <div class="">
-                                            <h3 class=" ">NikeCourt Zoom Vapor Cage</h3>
+                                    <div class="section2">
+                                        <div class="flash-card-text">
+                                            <h3 class="flash-card-title">NikeCourt Zoom Vapor Cage</h3>
                                             <div class="mb-2 ">
                                                 <svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
                                                     stroke-linecap="round" stroke-linejoin="round"
@@ -180,12 +181,12 @@
                                                     </polygon>
                                                 </svg>
                                             </div>
-                                            <div class="">
-                                                <div class="">
-                                                    <span class="">$187.50</span>
-                                                    <span class=""><del>$250.00</del></span>
+                                            <div class="section3">
+                                                <div class="price d-flex ">
+                                                    <span class="salePrice">$187.50</span>
+                                                    <span class="normalPrice"><del>$250.00</del></span>
                                                 </div>
-                                                <div class="addingIcon">
+                                                <div class="icon2">
                                                     <svg xmlns="http://www.w3.org/2000/svg" class="IconAdd" fill="red"
                                                         width="20" height="20" viewBox="0 0 18 18" fill="red"
                                                         class="injected-svg" data-src="/assets/images/icons/plus.svg"
@@ -214,7 +215,7 @@
 
 
 
-
+                        
                         <div>
                             <div class="flash-card">
 
