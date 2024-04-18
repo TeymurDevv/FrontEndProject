@@ -41,7 +41,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-sm-3">
-                                    <div class="d-flex justify-content-end ">
+                                    <div class="d-flex justify-content-end slider-img ">
                                         <img src="./assets/img/apple-watch-0.png" alt="">
                                     </div>
                                 </div>
@@ -1022,7 +1022,7 @@
 
             infinite: true,
             slidesToShow: 1,
-            slidesToScroll: 2,
+            slidesToScroll: 1,
             dots: true,
             autoplay: true, responsive: [
                 {
@@ -1042,6 +1042,7 @@
             infinite: true,
             slidesToShow: 4,
             slidesToScroll: 1,
+            dots: true,
             autoplay: true, responsive: [
                 {
                     breakpoint: 1024,
