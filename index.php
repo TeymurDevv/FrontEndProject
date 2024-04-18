@@ -1448,12 +1448,12 @@
                             </div>
                         </div>
                         <div class="col-lg-12 allignment">
-                            <div class="newOneCard d-flex gap-lg-3 ">
-                                <div class="images">
+                            <div class="card-back-2 d-flex gap-lg-3 ">
+                                <div class="">
                                     <img src="./assets/img/london-britches.webp" class="mb-2" alt="">
                                     <h4 class="cardTitle">London Britches</h4>
                                 </div>
-                                <div class="images2">
+                                <div class="">
                                     <img src="./assets/img/jim and jiko.webp" class="mb-2 " alt="">
                                     <h4 class="cardTitle">Jim & Jago</h4>
 
