@@ -72,6 +72,8 @@
         </div>
         </div>
     </section>
+
+    
     <?php require("./layouts/footer.php") ?>
 </body>
 
