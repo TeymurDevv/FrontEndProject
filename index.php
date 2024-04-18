@@ -1489,42 +1489,38 @@
                         <h2 class="sc-a7fb2b58-0 EKIZr">New Arrivals</h2>
                     </div>
                 </div>
-                <div class="col-lg-12 d-flex">
+                <div class="col-lg-12 col-sm-12">
                     <div class="row d-flex justify-content-center">
                         <div class="new-arrivals-product d-flex flex-wrap align-items-stretch justify-content-center">
-                            <!-- Keep as row -->
-                            <div class="col-md-4 col-lg-2 arrivals-product p1 text-center">
-                                <!-- Keep as row -->
-                                <img src="./assets/img/imagegoggles.webp" alt="" style="max-width: 100%; height: auto;">
+                            <div class="col-sm-4 col-lg-2 arrivals-product p1 text-center">
+                                <img src="./assets/img/imagegoggles.webp" alt="" class="new-arrivals-img" style="max-width: 100%; height: auto;">
                                 <h4 class="camera">Sunglass</h4>
                                 <h4 class="priceSmall">$150.00</h4>
                             </div>
-                            <div class="col-md-4 col-lg-2 arrivals-product text-center">
-                                <!-- Keep as row -->
-                                <img src="./assets/img/lipstick (2).webp" alt="" style="max-width: 100%; height: auto;">
+                            <div class="col-sm-4 col-lg-2 arrivals-product text-center">
+                                <img src="./assets/img/lipstick (2).webp" alt="" class="new-arrivals-img" style="max-width: 100%; height: auto;">
                                 <h4 class="camera">Makeup</h4>
                                 <h4 class="priceSmall">$250.00</h4>
                             </div>
-                            <!-- Repeat the same structure for other items -->
-                            <div class="col-md-4 col-lg-2 arrivals-product text-center">
+                            <div class="col-sm-4 col-lg-2 arrivals-product text-center">
                                 <img src="./assets/img/bgwatch.webp"
-                                    style="max-width: 100%; height: auto; border-radius: 12px;" alt="">
+                                    style="max-width: 100%; height: auto; border-radius: 12px;" alt="" class="new-arrivals-img">
                                 <h4 class="camera">Smart Watch</h4>
                                 <h4 class="priceSmall">$350.00</h4>
                             </div>
-                            <div class="col-md-4 col-lg-2 arrivals-product text-center">
-                                <img src="./assets/img/lipstick (1).webp" alt="" style="max-width: 100%; height: auto;">
+                            <div class="col-sm-4 mt-2 col-lg-2 arrivals-product text-center">
+                                <img src="./assets/img/lipstick (1).webp" alt="" class="new-arrivals-img" style="max-width: 100%; height: auto;">
                                 <h4 class="camera">Lipstick</h4>
                                 <h4 class="priceSmall">$15.00</h4>
                             </div>
-                            <div class="col-md-4 col-lg-2 arrivals-product text-center">
-                                <img src="./assets/img/lipstick (4).webp" alt="" style="max-width: 100%; height: auto;">
+                            <div class="col-sm-4 mt-2 col-lg-2 arrivals-product text-center">
+                                <img src="./assets/img/lipstick (4).webp" alt="" class="new-arrivals-img" style="max-width: 100%; height: auto;">
                                 <h4 class="camera">Green plant</h4>
                                 <h4 class="priceSmall">$55.00</h4>
                             </div>
-                            <div class="col-md-4 col-lg-2 arrivals-product text-center">
+                            <div class="col-sm-4 mt-2 col-lg-2 arrivals-product text-center">
                                 <!-- Keep as row -->
-                                <img src="./assets/img/lipstick (3).webp" alt="" style="max-width: 100%; height: auto;">
+                                <img src="./assets/img/lipstick (3).webp" class="new-arrivals-img" alt="" style="max-width: 100%; height: auto;">
                                 <h4 class="camera">Bonsai tree</h4>
                                 <h4 class="priceSmall">$535.00</h4>
                             </div>

@@ -52,3 +52,7 @@
   .new-arrivals-product {
     flex-wrap: wrap;
   }
+
+  .new-arrivals-img{
+    margin-bottom: 1rem;
+  }
