@@ -1094,7 +1094,7 @@
                             </div>
                         </div>
                         <div class="col-lg-12 allignment">
-                            <div class="NewCardDesign d-flex ">
+                            <div class="card-back d-flex ">
                                 <div class="compenetesInside p-1 ">
                                     <img src="./assets/img/camera-1.webp" alt="">
                                     <div class="mb-2 ">
