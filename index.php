@@ -1062,7 +1062,7 @@
                 <div class="col-lg-6">
                     <div class="row">
                         <div class="col-lg-12 allignment">
-                            <div class="d-flex gap-3 mt-5 mb-3">
+                            <div class="allInformation d-flex gap-3 mt-5 mb-3">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
                                     fill="red" class="injected-svg" data-src="/assets/images/icons/ranking-1.svg"
                                     xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
@@ -1089,6 +1089,326 @@
                                         fill="red"></path>
                                 </svg>
                                 <h2 class="sc-a7fb2b58-0 EKIZr  ">Top Ratings</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 allignment">
+                            <div class="top-rating-card d-flex ">
+                                <div class="content p-1 ">
+                                    <img src="./assets/img/camera-1.webp" alt="">
+                                    <div class="mb-2 ">
+                                        <svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.07426802030669477)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.6453173060689739)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.2846026415560736)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.009203426400553827)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.5107456186097816)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="0" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="0" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <span>(12)</span>
+                                    </div>
+                                    <h4 class="camera">Camera</h4>
+                                    <h4 class="smallPrice">$3,300.00</h4>
+                                </div>
+                                <div class="compenetesInside p-1 ">
+                                    <img src="./assets/img/shoes-2.webp" alt="">
+                                    <div class="mb-2 ">
+                                        <svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.07426802030669477)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.6453173060689739)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.2846026415560736)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.009203426400553827)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.5107456186097816)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="0" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="0" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <span>(12)</span>
+                                    </div>
+                                    <h4 class="camera">Shoe</h4>
+                                    <h4 class="smallPrice">$400.00</h4>
+                                </div>
+                                <div class="compenetesInside p-1 ">
+                                    <img src="./assets/img/mobile-1 (1).webp" alt="">
+                                    <div class="mb-2 ">
+                                        <svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.07426802030669477)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.6453173060689739)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.2846026415560736)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.009203426400553827)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.5107456186097816)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="0" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="0" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <span>(12)</span>
+                                    </div>
+                                    <h4 class="camera">watch</h4>
+                                    <h4 class="smallPrice">$999.00</h4>
+                                </div>
+                                <div class="content p-1 ">
+                                    <img src="./assets/img/watch-1.webp" alt="">
+                                    <div class="mb-2 ">
+                                        <svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.07426802030669477)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.6453173060689739)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.2846026415560736)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.009203426400553827)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                            stroke-linecap="round" stroke-linejoin="round"
+                                            fill="url(#star-0.5107456186097816)" xmlns="http://www.w3.org/2000/svg"
+                                            stroke="#FFCD4E" class="feather feather-star">
+                                            <defs>
+                                                <linearGradient id="">
+                                                    <stop offset="0" stop-color="#FFCD4E"></stop>
+                                                    <stop offset="0" stop-color="#FFFFFF" stop-opacity="1">
+                                                    </stop>
+                                                </linearGradient>
+                                            </defs>
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <span>(12)</span>
+                                    </div>
+                                    <h4 class="camera">Phone</h4>
+                                    <h4 class="smallPrice">$999.00</h4>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -1123,6 +1443,20 @@
                                         fill="red"></path>
                                 </svg>
                                 <h2 class="sc-a7fb2b58-0 EKIZr  ">Featured Brands</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 respon">
+                            <div class="top-rating-card d-flex gap-lg-3 ">
+                                <div class="img1">
+                                    <img src="./assets/img/london-britches.webp" class="mb-2" alt="">
+                                    <h4 class="card-Title">London Britches</h4>
+                                </div>
+                                <div class="img2">
+                                    <img src="./assets/img/jim and jiko.webp" class="mb-2 " alt="">
+                                    <h4 class="card-Title">Jim & Jago</h4>
+
+                                </div>
+
                             </div>
                         </div>
                     </div>
