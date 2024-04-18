@@ -997,33 +997,7 @@
                             </div>
                         </div>
 
-
-
-
-
-
-
-
-
-
                         
-                        <div>
-                            <div class="flash-card">
-
-                            </div>
-                        </div>
-
-                        <div>
-                            <div class="flash-card">
-
-                            </div>
-                        </div>
-
-                        <div>
-                            <div class="flash-card">
-
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
