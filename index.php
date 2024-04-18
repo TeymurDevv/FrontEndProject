@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="./assets/css/2in1-section.css">
     <link rel="stylesheet" href="./assets/css/big-discounts.css">
     <link rel="stylesheet" href="./assets/css/car.css">
+    <link rel="stylesheet" href="./assets/css/card-info.css">
     <title>Document</title>
 </head>
 
@@ -3076,6 +3077,895 @@
                 </div>
                 <div class="col-lg-8">
                     <img src="./assets/img/banner-2.webp" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="glasses">
+        <div class="container">
+            <div class="row mb-5 ">
+                <div class="col-lg-3">
+                    <div class="IdicatorCard">
+                        <div class="itemsInIt">
+                            <img src="./assets/img/ferrari.webp" alt="">
+                            <span class="carName">Ferrari</span>
+                        </div>
+                        <div class="itemsInIt">
+                            <img src="./assets/img/tesla.webp" alt="">
+                            <span class="carName">tesla</span>
+                        </div>
+                        <div class="itemsInIt">
+                            <img src="./assets/img/bmw.webp" alt="">
+                            <span class="carName">Bmw</span>
+                        </div>
+                        <div class="itemsInIt">
+                            <img src="./assets/img/toyota.webp" alt="">
+                            <span class="carName">toyota</span>
+                        </div>
+                        <div class="itemsInIt">
+                            <img src="./assets/img/mini.webp" alt="">
+                            <span class="carName">mini</span>
+                        </div>
+                        <div class="itemsInIt">
+                            <img src="./assets/img/ford.webp" alt="">
+                            <span class="carName">ford</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-9 col-md-12">
+                    <div class="row">
+                        <div class="col-lg-12 respon">
+                            <div class="titleCar">
+                                <h2 class="cars">Cars
+                                </h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 carAdd col-sm-6 ">
+                                <div class="mycard mb-4 extraCar " data-id="6">
+                                    <div class="imagePart">
+                                        <div class="iconsDesigned">25<!-- -->% off</div>
+                                        <img src="./assets/img/1.webp" class="w-100 " alt="">
+                                    </div>
+                                    <div class="extraDesign">
+                                        <div class="writings">
+                                            <h3 class=" titleOfTheDeisgn">Lord 2019</h3>
+                                            <div class="mb-2 ">
+                                                <svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.07426802030669477)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.07426802030669477">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.6453173060689739)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.6453173060689739">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.2846026415560736)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.2846026415560736">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.009203426400553827)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.009203426400553827">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.5107456186097816)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.5107456186097816">
+                                                            <stop offset="0" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="0" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg>
+                                            </div>
+                                            <div class="allDesign">
+                                                <div class="priceShow d-flex ">
+                                                    <span class="theActualPrice">$154.56</span>
+                                                    <span class="prevoiusPrice"><del>$168.00</del></span>
+                                                </div>
+                                                <div class="addingIcon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" class="IconAdd" fill="red"
+                                                        width="20" height="20" viewBox="0 0 18 18" fill="red"
+                                                        class="injected-svg" data-src="/assets/images/icons/plus.svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M9 2.74999C9.55228 2.74999 10 3.19771 10 3.74999V14.25C10 14.8023 9.55228 15.25 9 15.25C8.44772 15.25 8 14.8023 8 14.25V3.74999C8 3.19771 8.44772 2.74999 9 2.74999Z"
+                                                            fill="red"></path>
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M2.75 9C2.75 8.44772 3.19772 8 3.75 8H14.25C14.8023 8 15.25 8.44772 15.25 9C15.25 9.55228 14.8023 10 14.25 10H3.75C3.19772 10 2.75 9.55228 2.75 9Z"
+                                                            fill="red"></path>
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 carAdd col-sm-6">
+                                <div class="mycard mb-4 extraCar " data-id="7">
+                                    <div class="imagePart">
+                                        <div class="iconsDesigned">25<!-- -->% off</div>
+                                        <img src="./assets/img/2.webp" class="w-100 " alt="">
+                                    </div>
+                                    <div class="extraDesign">
+                                        <div class="writings">
+                                            <h3 class=" titleOfTheDeisgn">Audi 2017</h3>
+                                            <div class="mb-2 ">
+                                                <svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.07426802030669477)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.07426802030669477">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.6453173060689739)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.6453173060689739">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.2846026415560736)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.2846026415560736">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.009203426400553827)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.009203426400553827">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.5107456186097816)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.5107456186097816">
+                                                            <stop offset="0" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="0" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg>
+                                            </div>
+                                            <div class="allDesign">
+                                                <div class="priceShow d-flex ">
+                                                    <span class="theActualPrice">$212.40</span>
+                                                    <span class="prevoiusPrice"><del>$226.00</del></span>
+                                                </div>
+                                                <div class="addingIcon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" class="IconAdd" fill="red"
+                                                        width="20" height="20" viewBox="0 0 18 18" fill="red"
+                                                        class="injected-svg" data-src="/assets/images/icons/plus.svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M9 2.74999C9.55228 2.74999 10 3.19771 10 3.74999V14.25C10 14.8023 9.55228 15.25 9 15.25C8.44772 15.25 8 14.8023 8 14.25V3.74999C8 3.19771 8.44772 2.74999 9 2.74999Z"
+                                                            fill="red"></path>
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M2.75 9C2.75 8.44772 3.19772 8 3.75 8H14.25C14.8023 8 15.25 8.44772 15.25 9C15.25 9.55228 14.8023 10 14.25 10H3.75C3.19772 10 2.75 9.55228 2.75 9Z"
+                                                            fill="red"></path>
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 carAdd col-sm-6">
+                                <div class="mycard mb-4 extraCar" data-id="8">
+                                    <div class="imagePart">
+                                        <div class="iconsDesigned">25<!-- -->% off</div>
+                                        <img src="./assets/img/3.webp" class="w-100 " alt="">
+                                    </div>
+                                    <div class="extraDesign">
+                                        <div class="writings">
+                                            <h3 class=" titleOfTheDeisgn">Resla 2015</h3>
+                                            <div class="mb-2 ">
+                                                <svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.07426802030669477)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.07426802030669477">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.6453173060689739)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.6453173060689739">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.2846026415560736)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.2846026415560736">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.009203426400553827)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.009203426400553827">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.5107456186097816)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.5107456186097816">
+                                                            <stop offset="0" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="0" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg>
+                                            </div>
+                                            <div class="allDesign">
+                                                <div class="priceShow d-flex ">
+                                                    <span class="theActualPrice">$90.90</span>
+                                                    <span class="prevoiusPrice"><del>$101.00</del></span>
+                                                </div>
+                                                <div class="addingIcon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" class="IconAdd" fill="red"
+                                                        width="20" height="20" viewBox="0 0 18 18" fill="red"
+                                                        class="injected-svg" data-src="/assets/images/icons/plus.svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M9 2.74999C9.55228 2.74999 10 3.19771 10 3.74999V14.25C10 14.8023 9.55228 15.25 9 15.25C8.44772 15.25 8 14.8023 8 14.25V3.74999C8 3.19771 8.44772 2.74999 9 2.74999Z"
+                                                            fill="red"></path>
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M2.75 9C2.75 8.44772 3.19772 8 3.75 8H14.25C14.8023 8 15.25 8.44772 15.25 9C15.25 9.55228 14.8023 10 14.25 10H3.75C3.19772 10 2.75 9.55228 2.75 9Z"
+                                                            fill="red"></path>
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 carAdd col-sm-6">
+                                <div class="mycard extraCar" data-id="9">
+                                    <div class="imagePart">
+                                        <div class="iconsDesigned">25<!-- -->% off</div>
+                                        <img src="./assets/img/4.webp" class="w-100 " alt="">
+                                    </div>
+                                    <div class="extraDesign">
+                                        <div class="writings">
+                                            <h3 class=" titleOfTheDeisgn">Xorsche 2018</h3>
+                                            <div class="mb-2 ">
+                                                <svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.07426802030669477)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.07426802030669477">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.6453173060689739)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.6453173060689739">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.2846026415560736)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.2846026415560736">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.009203426400553827)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.009203426400553827">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.5107456186097816)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.5107456186097816">
+                                                            <stop offset="0" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="0" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg>
+                                            </div>
+                                            <div class="allDesign">
+                                                <div class="priceShow d-flex ">
+                                                    <span class="theActualPrice">$224.13</span>
+                                                    <span class="prevoiusPrice"><del>$241.00</del></span>
+                                                </div>
+                                                <div class="addingIcon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" class="IconAdd" fill="red"
+                                                        width="20" height="20" viewBox="0 0 18 18" fill="red"
+                                                        class="injected-svg" data-src="/assets/images/icons/plus.svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M9 2.74999C9.55228 2.74999 10 3.19771 10 3.74999V14.25C10 14.8023 9.55228 15.25 9 15.25C8.44772 15.25 8 14.8023 8 14.25V3.74999C8 3.19771 8.44772 2.74999 9 2.74999Z"
+                                                            fill="red"></path>
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M2.75 9C2.75 8.44772 3.19772 8 3.75 8H14.25C14.8023 8 15.25 8.44772 15.25 9C15.25 9.55228 14.8023 10 14.25 10H3.75C3.19772 10 2.75 9.55228 2.75 9Z"
+                                                            fill="red"></path>
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 carAdd col-sm-6">
+                                <div class="mycard extraCar" data-id="10">
+                                    <div class="imagePart">
+                                        <div class="iconsDesigned">25<!-- -->% off</div>
+                                        <img src="./assets/img/5.webp" class="w-100 " alt="">
+                                    </div>
+                                    <div class="extraDesign">
+                                        <div class="writings">
+                                            <h3 class=" titleOfTheDeisgn">Lord 2018</h3>
+                                            <div class="mb-2 ">
+                                                <svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.07426802030669477)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.07426802030669477">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.6453173060689739)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.6453173060689739">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.2846026415560736)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.2846026415560736">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.009203426400553827)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.009203426400553827">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.5107456186097816)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.5107456186097816">
+                                                            <stop offset="0" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="0" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg>
+                                            </div>
+                                            <div class="allDesign">
+                                                <div class="priceShow d-flex ">
+                                                    <span class="theActualPrice">$219.48</span>
+                                                    <span class="prevoiusPrice"><del>$236.00</del></span>
+                                                </div>
+                                                <div class="addingIcon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" class="IconAdd" fill="red"
+                                                        width="20" height="20" viewBox="0 0 18 18" fill="red"
+                                                        class="injected-svg" data-src="/assets/images/icons/plus.svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M9 2.74999C9.55228 2.74999 10 3.19771 10 3.74999V14.25C10 14.8023 9.55228 15.25 9 15.25C8.44772 15.25 8 14.8023 8 14.25V3.74999C8 3.19771 8.44772 2.74999 9 2.74999Z"
+                                                            fill="red"></path>
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M2.75 9C2.75 8.44772 3.19772 8 3.75 8H14.25C14.8023 8 15.25 8.44772 15.25 9C15.25 9.55228 14.8023 10 14.25 10H3.75C3.19772 10 2.75 9.55228 2.75 9Z"
+                                                            fill="red"></path>
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 carAdd col-sm-6">
+                                <div class="mycard extraCar " data-id="11">
+                                    <div class="imagePart">
+                                        <div class="iconsDesigned">25<!-- -->% off</div>
+                                        <img src="./assets/img/6.webp" class="w-100 " alt="">
+                                    </div>
+                                    <div class="extraDesign">
+                                        <div class="writings">
+                                            <h3 class=" titleOfTheDeisgn">Lord 2020</h3>
+                                            <div class="mb-2 ">
+                                                <svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.07426802030669477)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.07426802030669477">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.6453173060689739)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.6453173060689739">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.2846026415560736)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.2846026415560736">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.009203426400553827)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.009203426400553827">
+                                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg><svg width="17" height="17" stroke-width="2" viewBox="0 0 24 24"
+                                                    stroke-linecap="round" stroke-linejoin="round"
+                                                    fill="url(#star-0.5107456186097816)"
+                                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                                    class="feather feather-star">
+                                                    <defs>
+                                                        <linearGradient id="star-0.5107456186097816">
+                                                            <stop offset="0" stop-color="#FFCD4E"></stop>
+                                                            <stop offset="0" stop-color="#FFFFFF" stop-opacity="1">
+                                                            </stop>
+                                                        </linearGradient>
+                                                    </defs>
+                                                    <polygon
+                                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                                    </polygon>
+                                                </svg>
+                                            </div>
+                                            <div class="allDesign">
+                                                <div class="priceShow d-flex ">
+                                                    <span class="theActualPrice">$109.98</span>
+                                                    <span class="prevoiusPrice"><del>$117.00</del></span>
+                                                </div>
+                                                <div class="addingIcon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" class="IconAdd" fill="red"
+                                                        width="20" height="20" viewBox="0 0 18 18" fill="red"
+                                                        class="injected-svg" data-src="/assets/images/icons/plus.svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M9 2.74999C9.55228 2.74999 10 3.19771 10 3.74999V14.25C10 14.8023 9.55228 15.25 9 15.25C8.44772 15.25 8 14.8023 8 14.25V3.74999C8 3.19771 8.44772 2.74999 9 2.74999Z"
+                                                            fill="red"></path>
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M2.75 9C2.75 8.44772 3.19772 8 3.75 8H14.25C14.8023 8 15.25 8.44772 15.25 9C15.25 9.55228 14.8023 10 14.25 10H3.75C3.19772 10 2.75 9.55228 2.75 9Z"
+                                                            fill="red"></path>
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="cards">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="CardWarning d-flex flex-column  align-items-center ">
+                        <div class="iconsForCard mt-5 ">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 64 64"
+                                fill="0f3460" class="injected-svg" data-src="/assets/images/icons/truck.svg"
+                                xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
+                                <g clip-path="url(#clip0-56)">
+                                    <path
+                                        d="M48.3361 38.0503C43.8877 38.0503 40.2689 41.6692 40.2689 46.1175C40.2689 50.5659 43.8877 54.1848 48.3361 54.1848C52.7852 54.1848 56.4034 50.5659 56.4034 46.1175C56.4034 41.6692 52.7845 38.0503 48.3361 38.0503ZM48.3361 50.1512C46.1116 50.1512 44.3025 48.342 44.3025 46.1175C44.3025 43.893 46.1116 42.0839 48.3361 42.0839C50.5606 42.0839 52.3697 43.893 52.3697 46.1175C52.3697 48.3422 50.5606 50.1512 48.3361 50.1512Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M20.7731 38.0503C16.3247 38.0503 12.7059 41.6692 12.7059 46.1175C12.7059 50.5659 16.3247 54.1848 20.7731 54.1848C25.2215 54.1848 28.8404 50.5659 28.8404 46.1175C28.8404 41.6692 25.2215 38.0503 20.7731 38.0503ZM20.7731 50.1512C18.5486 50.1512 16.7395 48.342 16.7395 46.1175C16.7395 43.893 18.5486 42.0839 20.7731 42.0839C22.997 42.0839 24.8067 43.893 24.8067 46.1175C24.8067 48.3422 22.9976 50.1512 20.7731 50.1512Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M53.7687 14.9597C53.4259 14.2787 52.7287 13.8491 51.9664 13.8491H41.3445V17.8827H50.7226L56.2144 28.8058L59.8191 26.9933L53.7687 14.9597Z"
+                                        fill="#0f3460"></path>
+                                    <path d="M42.2858 44.168H27.0253V48.2016H42.2858V44.168Z" fill="#0f3460"></path>
+                                    <path
+                                        d="M14.7227 44.168H7.73117C6.61717 44.168 5.71442 45.0708 5.71442 46.1847C5.71442 47.2987 6.61729 48.2015 7.73117 48.2015H14.7228C15.8368 48.2015 16.7395 47.2986 16.7395 46.1847C16.7395 45.0707 15.8367 44.168 14.7227 44.168Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M63.5765 31.8384L59.6095 26.7292C59.2284 26.2371 58.6402 25.9493 58.0169 25.9493H43.3614V11.8317C43.3614 10.7177 42.4585 9.81494 41.3447 9.81494H7.73117C6.61717 9.81494 5.71442 10.7178 5.71442 11.8317C5.71442 12.9456 6.61729 13.8484 7.73117 13.8484H39.3278V27.9661C39.3278 29.0801 40.2307 29.9828 41.3445 29.9828H57.0293L59.9664 33.7663V44.1677H54.3865C53.2725 44.1677 52.3698 45.0706 52.3698 46.1844C52.3698 47.2984 53.2727 48.2012 54.3865 48.2012H61.9832C63.0972 48.2012 63.9999 47.2983 64 46.1844V33.0754C64 32.6277 63.8508 32.1921 63.5765 31.8384Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M14.5883 33.9497H5.31088C4.19688 33.9497 3.29413 34.8526 3.29413 35.9665C3.29413 37.0805 4.197 37.9832 5.31088 37.9832H14.5881C15.7021 37.9832 16.6049 37.0803 16.6049 35.9665C16.605 34.8526 15.7021 33.9497 14.5883 33.9497Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M19.2269 26.0166H2.01675C0.902875 26.0166 0 26.9195 0 28.0335C0 29.1475 0.902875 30.0502 2.01675 30.0502H19.2269C20.3409 30.0502 21.2436 29.1474 21.2436 28.0335C21.2436 26.9196 20.3409 26.0166 19.2269 26.0166Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M22.521 18.084H5.31088C4.19688 18.084 3.29413 18.9869 3.29413 20.1007C3.29413 21.2147 4.197 22.1175 5.31088 22.1175H22.521C23.635 22.1175 24.5378 21.2146 24.5378 20.1007C24.5379 18.9869 23.635 18.084 22.521 18.084Z"
+                                        fill="#0f3460"></path>
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0-56">
+                                        <rect width="64" height="64" fill="white"></rect>
+                                    </clipPath>
+                                </defs>
+                            </svg>
+                        </div>
+                        <h4 class="warning">Worldwide Delivery</h4>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="CardWarning  d-flex flex-column  align-items-center">
+                        <div class="iconsForCard mt-5  ">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 64 64"
+                                fill="0f3460" class="injected-svg" data-src="/assets/images/icons/truck.svg"
+                                xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
+                                <g clip-path="url(#clip0-56)">
+                                    <path
+                                        d="M48.3361 38.0503C43.8877 38.0503 40.2689 41.6692 40.2689 46.1175C40.2689 50.5659 43.8877 54.1848 48.3361 54.1848C52.7852 54.1848 56.4034 50.5659 56.4034 46.1175C56.4034 41.6692 52.7845 38.0503 48.3361 38.0503ZM48.3361 50.1512C46.1116 50.1512 44.3025 48.342 44.3025 46.1175C44.3025 43.893 46.1116 42.0839 48.3361 42.0839C50.5606 42.0839 52.3697 43.893 52.3697 46.1175C52.3697 48.3422 50.5606 50.1512 48.3361 50.1512Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M20.7731 38.0503C16.3247 38.0503 12.7059 41.6692 12.7059 46.1175C12.7059 50.5659 16.3247 54.1848 20.7731 54.1848C25.2215 54.1848 28.8404 50.5659 28.8404 46.1175C28.8404 41.6692 25.2215 38.0503 20.7731 38.0503ZM20.7731 50.1512C18.5486 50.1512 16.7395 48.342 16.7395 46.1175C16.7395 43.893 18.5486 42.0839 20.7731 42.0839C22.997 42.0839 24.8067 43.893 24.8067 46.1175C24.8067 48.3422 22.9976 50.1512 20.7731 50.1512Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M53.7687 14.9597C53.4259 14.2787 52.7287 13.8491 51.9664 13.8491H41.3445V17.8827H50.7226L56.2144 28.8058L59.8191 26.9933L53.7687 14.9597Z"
+                                        fill="#0f3460"></path>
+                                    <path d="M42.2858 44.168H27.0253V48.2016H42.2858V44.168Z" fill="#0f3460"></path>
+                                    <path
+                                        d="M14.7227 44.168H7.73117C6.61717 44.168 5.71442 45.0708 5.71442 46.1847C5.71442 47.2987 6.61729 48.2015 7.73117 48.2015H14.7228C15.8368 48.2015 16.7395 47.2986 16.7395 46.1847C16.7395 45.0707 15.8367 44.168 14.7227 44.168Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M63.5765 31.8384L59.6095 26.7292C59.2284 26.2371 58.6402 25.9493 58.0169 25.9493H43.3614V11.8317C43.3614 10.7177 42.4585 9.81494 41.3447 9.81494H7.73117C6.61717 9.81494 5.71442 10.7178 5.71442 11.8317C5.71442 12.9456 6.61729 13.8484 7.73117 13.8484H39.3278V27.9661C39.3278 29.0801 40.2307 29.9828 41.3445 29.9828H57.0293L59.9664 33.7663V44.1677H54.3865C53.2725 44.1677 52.3698 45.0706 52.3698 46.1844C52.3698 47.2984 53.2727 48.2012 54.3865 48.2012H61.9832C63.0972 48.2012 63.9999 47.2983 64 46.1844V33.0754C64 32.6277 63.8508 32.1921 63.5765 31.8384Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M14.5883 33.9497H5.31088C4.19688 33.9497 3.29413 34.8526 3.29413 35.9665C3.29413 37.0805 4.197 37.9832 5.31088 37.9832H14.5881C15.7021 37.9832 16.6049 37.0803 16.6049 35.9665C16.605 34.8526 15.7021 33.9497 14.5883 33.9497Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M19.2269 26.0166H2.01675C0.902875 26.0166 0 26.9195 0 28.0335C0 29.1475 0.902875 30.0502 2.01675 30.0502H19.2269C20.3409 30.0502 21.2436 29.1474 21.2436 28.0335C21.2436 26.9196 20.3409 26.0166 19.2269 26.0166Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M22.521 18.084H5.31088C4.19688 18.084 3.29413 18.9869 3.29413 20.1007C3.29413 21.2147 4.197 22.1175 5.31088 22.1175H22.521C23.635 22.1175 24.5378 21.2146 24.5378 20.1007C24.5379 18.9869 23.635 18.084 22.521 18.084Z"
+                                        fill="#0f3460"></path>
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0-56">
+                                        <rect width="64" height="64" fill="white"></rect>
+                                    </clipPath>
+                                </defs>
+                            </svg>
+                        </div>
+                        <h4 class="warning">Safe Payment</h4>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="card-info  d-flex flex-column  align-items-center">
+                        <div class="info-icons mt-5 ">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 64 64"
+                                fill="0f3460" class="injected-svg" data-src="/assets/images/icons/truck.svg"
+                                xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
+                                <g clip-path="url(#clip0-56)">
+                                    <path
+                                        d="M48.3361 38.0503C43.8877 38.0503 40.2689 41.6692 40.2689 46.1175C40.2689 50.5659 43.8877 54.1848 48.3361 54.1848C52.7852 54.1848 56.4034 50.5659 56.4034 46.1175C56.4034 41.6692 52.7845 38.0503 48.3361 38.0503ZM48.3361 50.1512C46.1116 50.1512 44.3025 48.342 44.3025 46.1175C44.3025 43.893 46.1116 42.0839 48.3361 42.0839C50.5606 42.0839 52.3697 43.893 52.3697 46.1175C52.3697 48.3422 50.5606 50.1512 48.3361 50.1512Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M20.7731 38.0503C16.3247 38.0503 12.7059 41.6692 12.7059 46.1175C12.7059 50.5659 16.3247 54.1848 20.7731 54.1848C25.2215 54.1848 28.8404 50.5659 28.8404 46.1175C28.8404 41.6692 25.2215 38.0503 20.7731 38.0503ZM20.7731 50.1512C18.5486 50.1512 16.7395 48.342 16.7395 46.1175C16.7395 43.893 18.5486 42.0839 20.7731 42.0839C22.997 42.0839 24.8067 43.893 24.8067 46.1175C24.8067 48.3422 22.9976 50.1512 20.7731 50.1512Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M53.7687 14.9597C53.4259 14.2787 52.7287 13.8491 51.9664 13.8491H41.3445V17.8827H50.7226L56.2144 28.8058L59.8191 26.9933L53.7687 14.9597Z"
+                                        fill="#0f3460"></path>
+                                    <path d="M42.2858 44.168H27.0253V48.2016H42.2858V44.168Z" fill="#0f3460"></path>
+                                    <path
+                                        d="M14.7227 44.168H7.73117C6.61717 44.168 5.71442 45.0708 5.71442 46.1847C5.71442 47.2987 6.61729 48.2015 7.73117 48.2015H14.7228C15.8368 48.2015 16.7395 47.2986 16.7395 46.1847C16.7395 45.0707 15.8367 44.168 14.7227 44.168Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M63.5765 31.8384L59.6095 26.7292C59.2284 26.2371 58.6402 25.9493 58.0169 25.9493H43.3614V11.8317C43.3614 10.7177 42.4585 9.81494 41.3447 9.81494H7.73117C6.61717 9.81494 5.71442 10.7178 5.71442 11.8317C5.71442 12.9456 6.61729 13.8484 7.73117 13.8484H39.3278V27.9661C39.3278 29.0801 40.2307 29.9828 41.3445 29.9828H57.0293L59.9664 33.7663V44.1677H54.3865C53.2725 44.1677 52.3698 45.0706 52.3698 46.1844C52.3698 47.2984 53.2727 48.2012 54.3865 48.2012H61.9832C63.0972 48.2012 63.9999 47.2983 64 46.1844V33.0754C64 32.6277 63.8508 32.1921 63.5765 31.8384Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M14.5883 33.9497H5.31088C4.19688 33.9497 3.29413 34.8526 3.29413 35.9665C3.29413 37.0805 4.197 37.9832 5.31088 37.9832H14.5881C15.7021 37.9832 16.6049 37.0803 16.6049 35.9665C16.605 34.8526 15.7021 33.9497 14.5883 33.9497Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M19.2269 26.0166H2.01675C0.902875 26.0166 0 26.9195 0 28.0335C0 29.1475 0.902875 30.0502 2.01675 30.0502H19.2269C20.3409 30.0502 21.2436 29.1474 21.2436 28.0335C21.2436 26.9196 20.3409 26.0166 19.2269 26.0166Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M22.521 18.084H5.31088C4.19688 18.084 3.29413 18.9869 3.29413 20.1007C3.29413 21.2147 4.197 22.1175 5.31088 22.1175H22.521C23.635 22.1175 24.5378 21.2146 24.5378 20.1007C24.5379 18.9869 23.635 18.084 22.521 18.084Z"
+                                        fill="#0f3460"></path>
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0-56">
+                                        <rect width="64" height="64" fill="white"></rect>
+                                    </clipPath>
+                                </defs>
+                            </svg>
+                        </div>
+                        <h4 class="info">Shop With Confidence
+                        </h4>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="CardWarning  d-flex flex-column  align-items-center">
+                        <div class="iconsForCard mt-5 ">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 64 64"
+                                fill="0f3460" class="injected-svg" data-src="/assets/images/icons/truck.svg"
+                                xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
+                                <g clip-path="url(#clip0-56)">
+                                    <path
+                                        d="M48.3361 38.0503C43.8877 38.0503 40.2689 41.6692 40.2689 46.1175C40.2689 50.5659 43.8877 54.1848 48.3361 54.1848C52.7852 54.1848 56.4034 50.5659 56.4034 46.1175C56.4034 41.6692 52.7845 38.0503 48.3361 38.0503ZM48.3361 50.1512C46.1116 50.1512 44.3025 48.342 44.3025 46.1175C44.3025 43.893 46.1116 42.0839 48.3361 42.0839C50.5606 42.0839 52.3697 43.893 52.3697 46.1175C52.3697 48.3422 50.5606 50.1512 48.3361 50.1512Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M20.7731 38.0503C16.3247 38.0503 12.7059 41.6692 12.7059 46.1175C12.7059 50.5659 16.3247 54.1848 20.7731 54.1848C25.2215 54.1848 28.8404 50.5659 28.8404 46.1175C28.8404 41.6692 25.2215 38.0503 20.7731 38.0503ZM20.7731 50.1512C18.5486 50.1512 16.7395 48.342 16.7395 46.1175C16.7395 43.893 18.5486 42.0839 20.7731 42.0839C22.997 42.0839 24.8067 43.893 24.8067 46.1175C24.8067 48.3422 22.9976 50.1512 20.7731 50.1512Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M53.7687 14.9597C53.4259 14.2787 52.7287 13.8491 51.9664 13.8491H41.3445V17.8827H50.7226L56.2144 28.8058L59.8191 26.9933L53.7687 14.9597Z"
+                                        fill="#0f3460"></path>
+                                    <path d="M42.2858 44.168H27.0253V48.2016H42.2858V44.168Z" fill="#0f3460"></path>
+                                    <path
+                                        d="M14.7227 44.168H7.73117C6.61717 44.168 5.71442 45.0708 5.71442 46.1847C5.71442 47.2987 6.61729 48.2015 7.73117 48.2015H14.7228C15.8368 48.2015 16.7395 47.2986 16.7395 46.1847C16.7395 45.0707 15.8367 44.168 14.7227 44.168Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M63.5765 31.8384L59.6095 26.7292C59.2284 26.2371 58.6402 25.9493 58.0169 25.9493H43.3614V11.8317C43.3614 10.7177 42.4585 9.81494 41.3447 9.81494H7.73117C6.61717 9.81494 5.71442 10.7178 5.71442 11.8317C5.71442 12.9456 6.61729 13.8484 7.73117 13.8484H39.3278V27.9661C39.3278 29.0801 40.2307 29.9828 41.3445 29.9828H57.0293L59.9664 33.7663V44.1677H54.3865C53.2725 44.1677 52.3698 45.0706 52.3698 46.1844C52.3698 47.2984 53.2727 48.2012 54.3865 48.2012H61.9832C63.0972 48.2012 63.9999 47.2983 64 46.1844V33.0754C64 32.6277 63.8508 32.1921 63.5765 31.8384Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M14.5883 33.9497H5.31088C4.19688 33.9497 3.29413 34.8526 3.29413 35.9665C3.29413 37.0805 4.197 37.9832 5.31088 37.9832H14.5881C15.7021 37.9832 16.6049 37.0803 16.6049 35.9665C16.605 34.8526 15.7021 33.9497 14.5883 33.9497Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M19.2269 26.0166H2.01675C0.902875 26.0166 0 26.9195 0 28.0335C0 29.1475 0.902875 30.0502 2.01675 30.0502H19.2269C20.3409 30.0502 21.2436 29.1474 21.2436 28.0335C21.2436 26.9196 20.3409 26.0166 19.2269 26.0166Z"
+                                        fill="#0f3460"></path>
+                                    <path
+                                        d="M22.521 18.084H5.31088C4.19688 18.084 3.29413 18.9869 3.29413 20.1007C3.29413 21.2147 4.197 22.1175 5.31088 22.1175H22.521C23.635 22.1175 24.5378 21.2146 24.5378 20.1007C24.5379 18.9869 23.635 18.084 22.521 18.084Z"
+                                        fill="#0f3460"></path>
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0-56">
+                                        <rect width="64" height="64" fill="white"></rect>
+                                    </clipPath>
+                                </defs>
+                            </svg>
+                        </div>
+                        <h4 class="warning">24/7 Support
+                        </h4>
+                    </div>
                 </div>
             </div>
         </div>
