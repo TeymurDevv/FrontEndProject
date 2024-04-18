@@ -49,3 +49,6 @@
     width: 1242px;
   }
 
+  .new-arrivals-product {
+    flex-wrap: wrap;
+  }
