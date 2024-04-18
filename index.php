@@ -14,7 +14,6 @@
     <link rel="stylesheet" href="./assets/css/slider.css">
     <link rel="stylesheet" href="./assets/css/flash-products.css">
     <link rel="stylesheet" href="./assets/css/category-slider.css">
-    <link rel="stylesheet" href="./assets/css/2in1section.css">
     <title>Document</title>
 </head>
 
@@ -1057,6 +1056,7 @@
         </div>
     </section>
 
+
     <section id="2in1-section">
         <div class="container">
             <div class="row">
@@ -1093,8 +1093,8 @@
                             </div>
                         </div>
                         <div class="col-lg-12 allignment">
-                            <div class="top-rating-card d-flex ">
-                                <div class="content p-1 ">
+                            <div class="NewCardDesign d-flex ">
+                                <div class="compenetesInside p-1 ">
                                     <img src="./assets/img/camera-1.webp" alt="">
                                     <div class="mb-2 ">
                                         <svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
@@ -1171,7 +1171,7 @@
                                         <span>(12)</span>
                                     </div>
                                     <h4 class="camera">Camera</h4>
-                                    <h4 class="smallPrice">$3,300.00</h4>
+                                    <h4 class="priceSmall">$3,300.00</h4>
                                 </div>
                                 <div class="compenetesInside p-1 ">
                                     <img src="./assets/img/shoes-2.webp" alt="">
@@ -1250,7 +1250,7 @@
                                         <span>(12)</span>
                                     </div>
                                     <h4 class="camera">Shoe</h4>
-                                    <h4 class="smallPrice">$400.00</h4>
+                                    <h4 class="priceSmall">$400.00</h4>
                                 </div>
                                 <div class="compenetesInside p-1 ">
                                     <img src="./assets/img/mobile-1 (1).webp" alt="">
@@ -1329,9 +1329,9 @@
                                         <span>(12)</span>
                                     </div>
                                     <h4 class="camera">watch</h4>
-                                    <h4 class="smallPrice">$999.00</h4>
+                                    <h4 class="priceSmall">$999.00</h4>
                                 </div>
-                                <div class="content p-1 ">
+                                <div class="compenetesInside p-1 ">
                                     <img src="./assets/img/watch-1.webp" alt="">
                                     <div class="mb-2 ">
                                         <svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
@@ -1408,7 +1408,7 @@
                                         <span>(12)</span>
                                     </div>
                                     <h4 class="camera">Phone</h4>
-                                    <h4 class="smallPrice">$999.00</h4>
+                                    <h4 class="priceSmall">$999.00</h4>
                                 </div>
                             </div>
                         </div>
@@ -1417,7 +1417,7 @@
                 <div class="col-lg-6">
                     <div class="row">
                         <div class="col-lg-12 allignment">
-                            <div class="d-flex gap-3 mt-5 mb-3">
+                            <div class="allInformation d-flex gap-3 mt-5 mb-3">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
                                     fill="red" class="injected-svg" data-src="/assets/images/icons/Group.svg"
                                     xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
@@ -1446,15 +1446,15 @@
                                 <h2 class="sc-a7fb2b58-0 EKIZr  ">Featured Brands</h2>
                             </div>
                         </div>
-                        <div class="col-lg-12 respon">
-                            <div class="top-rating-card d-flex gap-lg-3 ">
-                                <div class="img1">
+                        <div class="col-lg-12 allignment">
+                            <div class="newOneCard d-flex gap-lg-3 ">
+                                <div class="images">
                                     <img src="./assets/img/london-britches.webp" class="mb-2" alt="">
-                                    <h4 class="card-Title">London Britches</h4>
+                                    <h4 class="cardTitle">London Britches</h4>
                                 </div>
-                                <div class="img2">
+                                <div class="images2">
                                     <img src="./assets/img/jim and jiko.webp" class="mb-2 " alt="">
-                                    <h4 class="card-Title">Jim & Jago</h4>
+                                    <h4 class="cardTitle">Jim & Jago</h4>
 
                                 </div>
 
