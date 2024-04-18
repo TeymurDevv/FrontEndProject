@@ -1493,34 +1493,40 @@
                     <div class="row d-flex justify-content-center">
                         <div class="new-arrivals-product d-flex flex-wrap align-items-stretch justify-content-center">
                             <div class="col-sm-4 col-lg-2 arrivals-product p1 text-center">
-                                <img src="./assets/img/imagegoggles.webp" alt="" class="new-arrivals-img" style="max-width: 100%; height: auto;">
+                                <img src="./assets/img/imagegoggles.webp" alt="" class="new-arrivals-img"
+                                    style="max-width: 100%; height: auto;">
                                 <h4 class="camera">Sunglass</h4>
                                 <h4 class="priceSmall">$150.00</h4>
                             </div>
                             <div class="col-sm-4 col-lg-2 arrivals-product text-center">
-                                <img src="./assets/img/lipstick (2).webp" alt="" class="new-arrivals-img" style="max-width: 100%; height: auto;">
+                                <img src="./assets/img/lipstick (2).webp" alt="" class="new-arrivals-img"
+                                    style="max-width: 100%; height: auto;">
                                 <h4 class="camera">Makeup</h4>
                                 <h4 class="priceSmall">$250.00</h4>
                             </div>
                             <div class="col-sm-4 col-lg-2 arrivals-product text-center">
                                 <img src="./assets/img/bgwatch.webp"
-                                    style="max-width: 100%; height: auto; border-radius: 12px;" alt="" class="new-arrivals-img">
+                                    style="max-width: 100%; height: auto; border-radius: 12px;" alt=""
+                                    class="new-arrivals-img">
                                 <h4 class="camera">Smart Watch</h4>
                                 <h4 class="priceSmall">$350.00</h4>
                             </div>
                             <div class="col-sm-4 mt-2 col-lg-2 arrivals-product text-center">
-                                <img src="./assets/img/lipstick (1).webp" alt="" class="new-arrivals-img" style="max-width: 100%; height: auto;">
+                                <img src="./assets/img/lipstick (1).webp" alt="" class="new-arrivals-img"
+                                    style="max-width: 100%; height: auto;">
                                 <h4 class="camera">Lipstick</h4>
                                 <h4 class="priceSmall">$15.00</h4>
                             </div>
                             <div class="col-sm-4 mt-2 col-lg-2 arrivals-product text-center">
-                                <img src="./assets/img/lipstick (4).webp" alt="" class="new-arrivals-img" style="max-width: 100%; height: auto;">
+                                <img src="./assets/img/lipstick (4).webp" alt="" class="new-arrivals-img"
+                                    style="max-width: 100%; height: auto;">
                                 <h4 class="camera">Green plant</h4>
                                 <h4 class="priceSmall">$55.00</h4>
                             </div>
                             <div class="col-sm-4 mt-2 col-lg-2 arrivals-product text-center">
                                 <!-- Keep as row -->
-                                <img src="./assets/img/lipstick (3).webp" class="new-arrivals-img" alt="" style="max-width: 100%; height: auto;">
+                                <img src="./assets/img/lipstick (3).webp" class="new-arrivals-img" alt=""
+                                    style="max-width: 100%; height: auto;">
                                 <h4 class="camera">Bonsai tree</h4>
                                 <h4 class="priceSmall">$535.00</h4>
                             </div>
@@ -1534,7 +1540,115 @@
 
     <section id="big-discounts">
         <div class="container">
-            
+            <div class="row mb-5 ">
+                <div class="col-12">
+                    <div class="allInformation d-flex gap-3 mt-5 mb-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" viewBox="0 0 22 20" fill="red"
+                            class="injected-svg" data-src="/assets/images/icons/gift.svg"
+                            xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
+                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                d="M16.5354 0.87868C15.3638 -0.292893 13.4644 -0.292893 12.2928 0.87868L10.8786 2.29289C10.8183 2.35317 10.7611 2.41538 10.707 2.47931C10.653 2.41539 10.5958 2.3532 10.5355 2.29293L9.12132 0.878715C7.94975 -0.292858 6.05025 -0.292858 4.87868 0.878715C3.70711 2.05029 3.70711 3.94978 4.87868 5.12136L5.75732 6H0V12H2V20H20V12H22V6H15.6567L16.5354 5.12132C17.707 3.94975 17.707 2.05025 16.5354 0.87868ZM13.707 5.12132L15.1212 3.70711C15.5117 3.31658 15.5117 2.68342 15.1212 2.29289C14.7307 1.90237 14.0975 1.90237 13.707 2.29289L12.2928 3.70711C11.9023 4.09763 11.9023 4.7308 12.2928 5.12132C12.6833 5.51184 13.3165 5.51184 13.707 5.12132ZM9.12132 3.70714L7.70711 2.29293C7.31658 1.9024 6.68342 1.9024 6.29289 2.29293C5.90237 2.68345 5.90237 3.31662 6.29289 3.70714L7.70711 5.12136C8.09763 5.51188 8.7308 5.51188 9.12132 5.12136C9.51184 4.73083 9.51184 4.09767 9.12132 3.70714ZM20 8V10H2V8H20ZM11.9167 12H18V18H11.9167V12ZM10.0834 12V18H4V12H10.0834Z"
+                                fill="red"></path>
+                        </svg>
+                        <h2 class="sc-a7fb2b58-0 EKIZr  " style="    font-weight: bold;
+            font-size: 25px;">Big Discounts</h2>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="slider4 ">
+                        <div>
+                            <div class="mycard2">
+                                <img src="./assets/img/7.webp" alt="">
+                                <h4 class="camera" style="text-align: start;">BenX 2020</h4>
+                                <div class="priceShow d-flex gap-2">
+                                    <span class="priceSmall">$209.70.70</span>
+                                    <span class="oldPrice"><del>$180.00</del></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="mycard2">
+                                <img src="./assets/img/9.webp" alt="">
+                                <h4 class="camera" style="text-align: start;">Tony TV 1080p</h4>
+                                <div class="priceShow d-flex gap-2">
+                                    <span class="priceSmall">$258.54</span>
+                                    <span class="oldPrice"><del>$278.00</del></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="mycard2">
+                                <img src="./assets/img/10.webp" alt="">
+                                <h4 class="camera" style="text-align: start;">Tony PS4</h4>
+                                <div class="priceShow d-flex gap-2">
+                                    <span class="priceSmall">$168.15</span>
+                                    <span class="oldPrice"><del>$177.00</del></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="mycard2">
+                                <img src="./assets/img/11.webp" alt="">
+                                <h4 class="camera" style="text-align: start;">Setgearr 2020</h4>
+                                <div class="priceShow d-flex gap-2">
+                                    <span class="priceSmall">$116.10</span>
+                                    <span class="oldPrice"><del>$124.00</del></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="mycard2">
+                                <img src="./assets/img/11.webp" alt="">
+                                <h4 class="camera" style="text-align: start;">Tony BGB</h4>
+                                <div class="priceShow d-flex gap-2">
+                                    <span class="priceSmall">$269.80</span>
+                                    <span class="oldPrice"><del>$284.00</del></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="mycard2">
+                                <img src="./assets/img/12.webp" alt="">
+                                <h4 class="camera" style="text-align: start;">RG products</h4>
+                                <div class="priceShow d-flex gap-2">
+                                    <span class="priceSmall">$270.00</span>
+                                    <span class="oldPrice"><del>$300.00</del></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="mycard2">
+                                <img src="./assets/img/13.webp" alt="">
+                                <h4 class="camera" style="text-align: start;">Ranasonic 2019</h4>
+                                <div class="priceShow d-flex gap-2">
+                                    <span class="priceSmall">$124.67</span>
+                                    <span class="oldPrice"><del>$137.00</del></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="mycard2">
+                                <img src="./assets/img/14.webp" alt="">
+                                <h4 class="camera" style="text-align: start;">Pune HD</h4>
+                                <div class="priceShow d-flex gap-2">
+                                    <span class="priceSmall">$105.45</span>
+                                    <span class="oldPrice"><del>$111.00</del></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="mycard2">
+                                <img src="./assets/img/15.webp" alt="">
+                                <h4 class="camera" style="text-align: start;">Tony CCTV</h4>
+                                <div class="priceShow d-flex gap-2">
+                                    <span class="priceSmall">$139.50</span>
+                                    <span class="oldPrice"><del>$150.00</del></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 

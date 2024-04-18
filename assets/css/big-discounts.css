@@ -1,0 +1,17 @@
+.mycard2 {
+    box-shadow: rgba(3, 0, 71, 0.09) 0px 1px 3px;
+    background-color: rgb(255, 255, 255);
+    padding: 1rem;
+    border-radius: 8px;
+    width: 180px;
+}
+  
+  .mycard2 img {
+    width: 148px;
+    border-radius: 12px;
+    height: 148px;
+}
+  
+  .mycard2 img:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+}
