@@ -1507,7 +1507,7 @@
                             </div>
                             <!-- Repeat the same structure for other items -->
                             <div class="col-md-4 col-lg-2 arrivals-product text-center">
-                                <img src="./assets/img/bgwatch (1).webp"
+                                <img src="./assets/img/bgwatch.webp"
                                     style="max-width: 100%; height: auto; border-radius: 12px;" alt="">
                                 <h4 class="camera">Smart Watch</h4>
                                 <h4 class="priceSmall">$350.00</h4>
