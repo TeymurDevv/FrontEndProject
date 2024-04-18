@@ -1693,9 +1693,8 @@
                                     </h2>
                                 </div>
                             </div>
-                            <div class="col-lg-12 respon">
-                                <div class="row size">
-                                    <div class="col-lg-4 carAdd ">
+                                <div class="row">
+                                    <div class="col-lg-4 carAdd col-sm-6 ">
                                         <div class="mycard mb-4 extraCar " data-id="6">
                                             <div class="imagePart">
                                                 <div class="iconsDesigned">25<!-- -->% off</div>
@@ -1812,7 +1811,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-4 carAdd">
+                                    <div class="col-lg-4 carAdd col-sm-6">
                                         <div class="mycard mb-4 extraCar "data-id="7">
                                             <div class="imagePart">
                                                 <div class="iconsDesigned">25<!-- -->% off</div>
@@ -1929,7 +1928,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-4 carAdd">
+                                    <div class="col-lg-4 carAdd col-sm-6">
                                         <div class="mycard mb-4 extraCar" data-id="8">
                                             <div class="imagePart">
                                                 <div class="iconsDesigned">25<!-- -->% off</div>
@@ -2046,7 +2045,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-4 carAdd">
+                                    <div class="col-lg-4 carAdd col-sm-6">
                                         <div class="mycard extraCar" data-id="9">
                                             <div class="imagePart">
                                                 <div class="iconsDesigned">25<!-- -->% off</div>
@@ -2163,7 +2162,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-4 carAdd">
+                                    <div class="col-lg-4 carAdd col-sm-6">
                                         <div class="mycard extraCar" data-id="10">
                                             <div class="imagePart">
                                                 <div class="iconsDesigned">25<!-- -->% off</div>
@@ -2280,7 +2279,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-4 carAdd">
+                                    <div class="col-lg-4 carAdd col-sm-6">
                                         <div class="mycard extraCar " data-id="11">
                                             <div class="imagePart">
                                                 <div class="iconsDesigned">25<!-- -->% off</div>
@@ -2396,7 +2395,6 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
                                 </div>
                             </div>
                         </div>
