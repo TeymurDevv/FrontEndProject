@@ -19,6 +19,7 @@
     <?php require("./layouts/header.php") ?>
     <?php require("./layouts/header1.php") ?>
     <?php require("./layouts/sidebar.php") ?>
+
     <section id="main">
         <div class="container">
             <div class="row justify-content-end  ">
@@ -73,7 +74,25 @@
         </div>
     </section>
 
-    
+    <section id="flash">
+        <div class="container">
+            <div class="row ">
+                <div class="col-lg-12">
+                    <div class="d-flex gap-3 mt-5 mb-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                            class="injected-svg" data-src="/assets/images/icons/light.svg"
+                            xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
+                            <path d="M19.0765 9.48063H12.1242L15.5905 0L5 14.5194H11.9522L8.48592 24L19.0765 9.48063Z"
+                                fill="#D23F57"></path>
+                        </svg>
+                        <h2 class="sc-a7fb2b58-0 EKIZr fw-bolder">Flash Deals</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
     <?php require("./layouts/footer.php") ?>
 </body>
 
@@ -84,28 +103,27 @@
 <script src="./assets/slick/slick.min.js"></script>
 
 <script>
-        $(document).ready(function () {
-            $('.slider').slick({
+    $(document).ready(function () {
+        $('.slider').slick({
 
-                infinite: true,
-                slidesToShow: 1,
-                slidesToScroll: 2,
-                autoplay: true, responsive: [
-                    {
-                        breakpoint: 1024,
-                        settings: {
-                            slidesToShow: 1,
-                            slidesToScroll: 2,
-                            infinite: true,
-                            dots: true
-                        }
-                    },
-                ],
-                prevArrow: ' <span class="previous_arrow"><i class="fa-solid fa-arrow-left"></i></span>',
-                nextArrow: ' <span class="next_arrow"><i class="fa-solid fa-arrow-right"></i></span>'
-            });
+            infinite: true,
+            slidesToShow: 1,
+            slidesToScroll: 2,
+            autoplay: true, responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 2,
+                        infinite: true,
+                        dots: true
+                    }
+                },
+            ],
+            prevArrow: ' <span class="previous_arrow"><i class="fa-solid fa-arrow-left"></i></span>',
+            nextArrow: ' <span class="next_arrow"><i class="fa-solid fa-arrow-right"></i></span>'
         });
+    });
 
 
-    </script>
-
+</script>
