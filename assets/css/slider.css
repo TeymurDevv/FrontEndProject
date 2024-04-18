@@ -25,9 +25,3 @@
 .description{
     font-size: 13px;
 }
-
-@media screen and (max-width: 1024px) {
-    .slider-img{
-       background-color: red;
-    }
-}
