@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="./assets/css/flash-products.css">
     <link rel="stylesheet" href="./assets/css/category-slider.css">
     <link rel="stylesheet" href="./assets/css/2in1-section.css">
+    <link rel="stylesheet" href="./assets/css/big-discounts.css">
     <title>Document</title>
 </head>
 
@@ -1557,7 +1558,7 @@
                 <div class="col-12">
                     <div class="slider4 ">
                         <div>
-                            <div class="mycard2">
+                            <div class="discount-card">
                                 <img src="./assets/img/7.webp" alt="">
                                 <h4 class="camera" style="text-align: start;">BenX 2020</h4>
                                 <div class="priceShow d-flex gap-2">
@@ -1567,7 +1568,7 @@
                             </div>
                         </div>
                         <div>
-                            <div class="mycard2">
+                            <div class="discount-card">
                                 <img src="./assets/img/9.webp" alt="">
                                 <h4 class="camera" style="text-align: start;">Tony TV 1080p</h4>
                                 <div class="priceShow d-flex gap-2">
@@ -1577,7 +1578,7 @@
                             </div>
                         </div>
                         <div>
-                            <div class="mycard2">
+                            <div class="discount-card">
                                 <img src="./assets/img/10.webp" alt="">
                                 <h4 class="camera" style="text-align: start;">Tony PS4</h4>
                                 <div class="priceShow d-flex gap-2">
@@ -1587,7 +1588,7 @@
                             </div>
                         </div>
                         <div>
-                            <div class="mycard2">
+                            <div class="discount-card">
                                 <img src="./assets/img/11.webp" alt="">
                                 <h4 class="camera" style="text-align: start;">Setgearr 2020</h4>
                                 <div class="priceShow d-flex gap-2">
@@ -1597,7 +1598,7 @@
                             </div>
                         </div>
                         <div>
-                            <div class="mycard2">
+                            <div class="discount-card">
                                 <img src="./assets/img/11.webp" alt="">
                                 <h4 class="camera" style="text-align: start;">Tony BGB</h4>
                                 <div class="priceShow d-flex gap-2">
@@ -1607,7 +1608,7 @@
                             </div>
                         </div>
                         <div>
-                            <div class="mycard2">
+                            <div class="discount-card">
                                 <img src="./assets/img/12.webp" alt="">
                                 <h4 class="camera" style="text-align: start;">RG products</h4>
                                 <div class="priceShow d-flex gap-2">
@@ -1617,7 +1618,7 @@
                             </div>
                         </div>
                         <div>
-                            <div class="mycard2">
+                            <div class="discount-card">
                                 <img src="./assets/img/13.webp" alt="">
                                 <h4 class="camera" style="text-align: start;">Ranasonic 2019</h4>
                                 <div class="priceShow d-flex gap-2">
@@ -1627,7 +1628,7 @@
                             </div>
                         </div>
                         <div>
-                            <div class="mycard2">
+                            <div class="discount-card">
                                 <img src="./assets/img/14.webp" alt="">
                                 <h4 class="camera" style="text-align: start;">Pune HD</h4>
                                 <div class="priceShow d-flex gap-2">
@@ -1637,7 +1638,7 @@
                             </div>
                         </div>
                         <div>
-                            <div class="mycard2">
+                            <div class="discount-card">
                                 <img src="./assets/img/15.webp" alt="">
                                 <h4 class="camera" style="text-align: start;">Tony CCTV</h4>
                                 <div class="priceShow d-flex gap-2">
