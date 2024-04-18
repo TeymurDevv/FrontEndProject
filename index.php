@@ -1555,93 +1555,93 @@
             font-size: 25px;">Big Discounts</h2>
                     </div>
                 </div>
-                <div class="col-12">
+                <div class="col-lg-12 col-sm-12">
                     <div class="big-discounts-slider">
                         <div>
-                            <div class="discount-card">
+                            <div class="discount-card col-lg-2 col-sm-3">
                                 <img src="./assets/img/7.png" alt="">
                                 <h4 class="camera" style="text-align: start;">BenX 2020</h4>
-                                <div class="priceShow d-flex gap-2">
+                                <div class="priceShow d-flex gap-0">
                                     <span class="priceSmall">$209.70.70</span>
                                     <span class="oldPrice"><del>$180.00</del></span>
                                 </div>
                             </div>
                         </div>
                         <div>
-                            <div class="discount-card">
+                            <div class="discount-card col-lg-2 col-sm-3">
                                 <img src="./assets/img/9.png" alt="">
                                 <h4 class="camera" style="text-align: start;">Tony TV 1080p</h4>
-                                <div class="priceShow d-flex gap-2">
+                                <div class="priceShow d-flex gap-0">
                                     <span class="priceSmall">$258.54</span>
                                     <span class="oldPrice"><del>$278.00</del></span>
                                 </div>
                             </div>
                         </div>
                         <div>
-                            <div class="discount-card">
+                            <div class="discount-card col-lg-2 col-sm-3">
                                 <img src="./assets/img/10.png" alt="">
                                 <h4 class="camera" style="text-align: start;">Tony PS4</h4>
-                                <div class="priceShow d-flex gap-2">
+                                <div class="priceShow d-flex gap-0">
                                     <span class="priceSmall">$168.15</span>
                                     <span class="oldPrice"><del>$177.00</del></span>
                                 </div>
                             </div>
                         </div>
                         <div>
-                            <div class="discount-card">
+                            <div class="discount-card col-lg-2 col-sm-3">
                                 <img src="./assets/img/11.png" alt="">
                                 <h4 class="camera" style="text-align: start;">Setgearr 2020</h4>
-                                <div class="priceShow d-flex gap-2">
+                                <div class="priceShow d-flex gap-0">
                                     <span class="priceSmall">$116.10</span>
                                     <span class="oldPrice"><del>$124.00</del></span>
                                 </div>
                             </div>
                         </div>
                         <div>
-                            <div class="discount-card">
+                            <div class="discount-card col-lg-2 col-sm-3">
                                 <img src="./assets/img/12.png" alt="">
                                 <h4 class="camera" style="text-align: start;">Tony BGB</h4>
-                                <div class="priceShow d-flex gap-2">
+                                <div class="priceShow d-flex gap-0">
                                     <span class="priceSmall">$269.80</span>
                                     <span class="oldPrice"><del>$284.00</del></span>
                                 </div>
                             </div>
                         </div>
                         <div>
-                            <div class="discount-card">
+                            <div class="discount-card col-lg-2 col-sm-3">
                                 <img src="./assets/img/13.png" alt="">
                                 <h4 class="camera" style="text-align: start;">RG products</h4>
-                                <div class="priceShow d-flex gap-2">
+                                <div class="priceShow d-flex gap-0">
                                     <span class="priceSmall">$270.00</span>
                                     <span class="oldPrice"><del>$300.00</del></span>
                                 </div>
                             </div>
                         </div>
                         <div>
-                            <div class="discount-card">
+                            <div class="discount-card col-lg-2 col-sm-3">
                                 <img src="./assets/img/14.png" alt="">
                                 <h4 class="camera" style="text-align: start;">Ranasonic 2019</h4>
-                                <div class="priceShow d-flex gap-2">
+                                <div class="priceShow d-flex gap-0">
                                     <span class="priceSmall">$124.67</span>
                                     <span class="oldPrice"><del>$137.00</del></span>
                                 </div>
                             </div>
                         </div>
                         <div>
-                            <div class="discount-card">
+                            <div class="discount-card col-lg-2 col-sm-3">
                                 <img src="./assets/img/15.png" alt="">
                                 <h4 class="camera" style="text-align: start;">Pune HD</h4>
-                                <div class="priceShow d-flex gap-2">
+                                <div class="priceShow d-flex gap-0">
                                     <span class="priceSmall">$105.45</span>
                                     <span class="oldPrice"><del>$111.00</del></span>
                                 </div>
                             </div>
                         </div>
                         <div>
-                            <div class="discount-card">
+                            <div class="discount-card col-lg-2 col-sm-3">
                                 <img src="./assets/img/16.png" alt="">
                                 <h4 class="camera" style="text-align: start;">Tony CCTV</h4>
-                                <div class="priceShow d-flex gap-2">
+                                <div class="priceShow d-flex gap-0">
                                     <span class="priceSmall">$139.50</span>
                                     <span class="oldPrice"><del>$150.00</del></span>
                                 </div>
@@ -1733,24 +1733,24 @@
 
     $('.big-discounts-slider').slick({
 
-infinite: true,
-slidesToShow: 3,
-slidesToScroll: 1,
-dots: true,
-autoplay: true, responsive: [
-    {
-        breakpoint: 1024,
-        settings: {
-            slidesToShow: 2,
-            slidesToScroll: 1,
-            infinite: true,
-            dots: true
-        }
-    },
-],
-prevArrow: ' <span class="previous_arrow"><i class="fa-solid fa-arrow-left"></i></span>',
-nextArrow: ' <span class="next_arrow"><i class="fa-solid fa-arrow-right"></i></span>'
-});
+        infinite: true,
+        slidesToShow: 6,
+        slidesToScroll: 1,
+        dots: true,
+        autoplay: true, responsive: [
+            {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                    infinite: true,
+                    dots: true
+                }
+            },
+        ],
+        prevArrow: ' <span class="previous_arrow"><i class="fa-solid fa-arrow-left"></i></span>',
+        nextArrow: ' <span class="next_arrow"><i class="fa-solid fa-arrow-right"></i></span>'
+    });
 
 
 
