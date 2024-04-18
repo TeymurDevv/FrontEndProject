@@ -1025,26 +1025,26 @@
                 </div>
 
                 <div class="col-lg-12">
-                    <div class="category-slider">
-                        <div>
+                    <div class="category-slider w-100">
+                        <div class="w-auto">
                             <div class="category-slide">
                                 <div class="good-category">Sunglass</div>
                                 <img src="./assets/img/category-3.webp" alt="">
                             </div>
                         </div>
-                        <div>
+                        <div class="w-auto">
                             <div class="category-slide">
                                 <div class="good-category">Sunglass</div>
                                 <img src="./assets/img/category-3.webp" alt="">
                             </div>
                         </div>
-                        <div>
+                        <div class="w-auto">
                             <div class="category-slide">
                                 <div class="good-category">Sunglass</div>
                                 <img src="./assets/img/category-2.webp" alt="">
                             </div>
                         </div>
-                        <div>
+                        <div class="w-auto">
                             <div class="category-slide">
                                 <div class="good-category">Sunglass</div>
                                 <img src="./assets/img/category-1.webp" alt="">
