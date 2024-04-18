@@ -1,0 +1,24 @@
+.category-slide {
+    box-shadow: rgba(3, 0, 71, 0.09) 0px 1px 3px;
+    background-color: rgb(255, 255, 255);
+    padding: 1rem;
+    border-radius: 8px;
+    width: 384px;
+    position: relative;
+}
+
+.good-category {
+    display: inline-flex;
+    border-radius: 300px;
+    cursor: unset;
+    box-shadow: unset;
+    padding: 4px 10px;
+    color: white;
+    background-color: rgb(15, 52, 96);
+    z-index: 2;
+    top: 1.5rem;
+    left: 1.5rem;
+    position: absolute;
+    font-size: 10px;
+    font-weight: 600;
+  }

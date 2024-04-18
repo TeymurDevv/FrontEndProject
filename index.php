@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="./assets/css/sidebar.css">
     <link rel="stylesheet" href="./assets/css/slider.css">
     <link rel="stylesheet" href="./assets/css/flash-products.css">
+    <link rel="stylesheet" href="./assets/css/category-slider.css">
     <title>Document</title>
 </head>
 
