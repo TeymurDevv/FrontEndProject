@@ -95,7 +95,7 @@
                     <div class="flash-slider">
                         <div>
                             <div>
-                                <div class="flash-card" data-id="1">
+                                <div class="flash-card position-relative " data-id="1">
                                     <div class="imageSection">
                                         <div class="icons">25<!-- -->% off</div>
                                         <img src="./assets/img/flash-1.webp" alt="">
