@@ -91,7 +91,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-12">
+                <div class="col-lg-12 col-sm-12">
                     <div class="flash-slider">
                         <div>
                             <div>
@@ -1005,6 +1005,57 @@
 
         </div>
     </section>
+
+    <section id="top-categories">
+        <div class="container">
+            <!-- Flash Deals Section Start -->
+            <div class="row flash-deals-title">
+                <div class="col-lg-12">
+                    <div class="d-flex gap-3 mt-5 mb-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" id="glyph" height="24" viewBox="0 0 64 64" width="24"
+                            class="injected-svg" data-src="/assets/images/icons/categories.svg"
+                            xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
+                            <path
+                                d="m29 11v14a4 4 0 0 1 -4 4h-14a4 4 0 0 1 -4-4v-14a4 4 0 0 1 4-4h14a4 4 0 0 1 4 4zm24-4h-14a4 4 0 0 0 -4 4v14a4 4 0 0 0 4 4h14a4 4 0 0 0 4-4v-14a4 4 0 0 0 -4-4zm-28 28h-14a4 4 0 0 0 -4 4v14a4 4 0 0 0 4 4h14a4 4 0 0 0 4-4v-14a4 4 0 0 0 -4-4zm21 0a11 11 0 1 0 11 11 11 11 0 0 0 -11-11z"
+                                fill="#E94560"></path>
+                        </svg>
+                        <h2 class="sc-a7fb2b58-0 EKIZr fw-bolder">Top Categories</h2>
+                    </div>
+                </div>
+
+                <div class="col-lg-12">
+                    <div class="category-slider">
+                        <div>
+                            <div class="category-slide">
+                                <div class="good-category">Sunglass</div>
+                                <img src="./assets/img/category-3.webp" alt="">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="category-slide">
+                                <div class="good-category">Sunglass</div>
+                                <img src="./assets/img/category-3.webp" alt="">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="category-slide">
+                                <div class="good-category">Sunglass</div>
+                                <img src="./assets/img/category-2.webp" alt="">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="category-slide">
+                                <div class="good-category">Sunglass</div>
+                                <img src="./assets/img/category-1.webp" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
 
 
     <?php require("./layouts/footer.php") ?>
