@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="./assets/css/slider.css">
     <link rel="stylesheet" href="./assets/css/flash-products.css">
     <link rel="stylesheet" href="./assets/css/category-slider.css">
+    <link rel="stylesheet" href="./assets/css/2in1-section.css">
     <title>Document</title>
 </head>
 
