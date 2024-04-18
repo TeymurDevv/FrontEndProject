@@ -25,3 +25,47 @@
 .description{
     font-size: 13px;
 }
+
+@media screen and (max-width: 1024px) {
+    .TheMainLogo {
+      display: none;
+    }
+    .icons {
+      display: none;
+    }
+    #lastNav {
+      display: none;
+    }
+    .content2 {
+      display: none;
+    }
+    .searchInput {
+      width: 100%;
+    }
+    .categories {
+      display: none;
+    }
+    .content2 {
+      display: none;
+    }
+    .this {
+      display: none;
+    }
+    .respon {
+      display: flex;
+      justify-content: center;
+    }
+    .wiew {
+      display: none;
+    }
+    .size {
+      width: 0;
+    }
+    .imgKeep {
+      justify-content: center !important;
+    }
+    .carAdd {
+      display: flex;
+      justify-content: center;
+    }
+}
