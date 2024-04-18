@@ -1025,26 +1025,26 @@
                 </div>
 
                 <div class="col-lg-12">
-                    <div class="category-slider w-100">
-                        <div class="w-auto">
+                    <div class="category-slider">
+                        <div>
                             <div class="category-slide">
                                 <div class="good-category">Sunglass</div>
                                 <img src="./assets/img/category-3.webp" alt="">
                             </div>
                         </div>
-                        <div class="w-auto">
+                        <div>
                             <div class="category-slide">
                                 <div class="good-category">Sunglass</div>
                                 <img src="./assets/img/category-3.webp" alt="">
                             </div>
                         </div>
-                        <div class="w-auto">
+                        <div>
                             <div class="category-slide">
                                 <div class="good-category">Sunglass</div>
                                 <img src="./assets/img/category-2.webp" alt="">
                             </div>
                         </div>
-                        <div class="w-auto">
+                        <div>
                             <div class="category-slide">
                                 <div class="good-category">Sunglass</div>
                                 <img src="./assets/img/category-1.webp" alt="">
@@ -1131,6 +1131,7 @@
         prevArrow: ' <span class="previous_arrow"><i class="fa-solid fa-arrow-left"></i></span>',
         nextArrow: ' <span class="next_arrow"><i class="fa-solid fa-arrow-right"></i></span>'
     });
+
 
 
 </script>
