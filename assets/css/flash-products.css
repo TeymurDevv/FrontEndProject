@@ -95,3 +95,33 @@
 .flash-slider {
     position: relative;
 }
+
+.flash-slider .previous_arrow {
+    position: absolute;
+    background-color: rgb(15, 52, 96);
+    color: rgb(125, 135, 156);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 30px;
+    border-radius: 50%;
+    top: 161px;
+    left: -16px;
+    border: none;
+    line-height: 19px;
+    text-align: center;
+    z-index: 999999999999;
+    padding: 1rem;
+  }
+  
+  .flash-slider .next_arrow {
+    position: absolute;
+    background-color: rgb(15, 52, 96);
+    color: rgb(125, 135, 156);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 30px;
+    border-radius: 50%;
+    top: 161px;
+    right: -8px;
+    border: none;
+    line-height: 19px;
+    text-align: center;
+    z-index: 999999999999;
+    padding: 1rem;
+  }
