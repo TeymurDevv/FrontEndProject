@@ -3068,6 +3068,19 @@
         </div>
     </section>
 
+    <section id="photos">
+        <div class="container">
+            <div class="row mb-5 ">
+                <div class="col-lg-4">
+                    <img src="./assets/img/banner-1.webp" alt="">
+                </div>
+                <div class="col-lg-8">
+                    <img src="./assets/img/banner-2.webp" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
 
 
 
