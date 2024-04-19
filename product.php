@@ -6,6 +6,8 @@
     <title>Bonik | Single Product</title>
 </head>
 <body>
+    <link rel="stylesheet" href="./assets/bootstrap-5.3.3-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./assets/fontawesome-pro-6.5.1-web/css/all.min.css">
     <link rel="stylesheet" href="./assets/css/header.css">
     <link rel="stylesheet" href="./assets/css/header2.css">
     <link rel="stylesheet" href="./assets/css/sidebar.css">
