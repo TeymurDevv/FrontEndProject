@@ -20,4 +20,10 @@
     require("./layouts/footer.php");
     ?>
 </body>
+
+<style>
+    .CategoriesPart{
+        display: none;
+    }
+</style>
 </html>
