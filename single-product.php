@@ -25,12 +25,12 @@
 
   <main>
     <section class="page-content">
-      <section class="car-info flex-col">
-        <div class="top-side flex w-full">
+      <section class="car-info flex-column ">
+        <div class="top-side d-flex w-100">
           <div class="img">
-            <img width="568px" src="src/assets/img/1.Ford2019.png" alt="">
+            <img width="568px" src="./assets/img/1.Ford2019.png" alt="">
           </div>
-          <div class="info w-full flex-col gap-4">
+          <div class="info w-100 flex-column  gap-4">
             <h1 class="open-sans text-slate-800 font-700 " style="font-size: 30px;">Lord 2019</h1>
             <span class="open-sans text-sm text-gray-400 ">Brand: <span class="text-slate-800 font-700 ">Ziaomi</span>
             </span>
@@ -52,7 +52,7 @@
             <button class="bg-rose-400 text-white rounded open-sans  font-700  text-sm cursor-pointer ">
               Add to Card
             </button>
-            <div class="made flex gap-1 my-4">
+            <div class="made d-flex gap-1 my-4">
               <span class="open-sans text-sm text-gray-400 ">Sold By:</span>
               <span class="open-sans text-sm text-slate-800 font-700 cursor-pointer ">Mobile Store</>
             </div>
@@ -235,7 +235,7 @@
             </div>
           </div>
           <div class="large-card">
-            <div class="card-item flex justify-center items-center flex-col">
+            <div class="card-item flex justify-center items-center d-flex-col">
               <div class="text">
                 <h3 class="open-sans text-rose-500 m-0 font-700" style="font-size: 20px;">$2500</h3>
                 <p class="open-sans text-sm text-gray-500 mt-1 mb-4 ">Save $500</p>
