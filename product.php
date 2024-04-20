@@ -48,7 +48,8 @@
                         <div class="sidebarItem d-flex justify-content-between">
                             <span>Bath Preparations</span>
                             <div class="iconBar">
-                                <img src="http://www.w3.org/2000/svg/chevron-right.svg" alt="Expand" class="chevronIcon">
+                                <img src="http://www.w3.org/2000/svg/chevron-right.svg" alt="Expand"
+                                    class="chevronIcon">
                             </div>
                         </div>
                         <div class="dropdownContent">
@@ -83,9 +84,71 @@
                         <div class="divider"></div>
                         <h6 class="sidebarHeading">Ratings</h6>
                         <ul class="ratings">
-                            <li><img src="http://www.w3.org/2000/svg/star.svg" alt="Star Rating" class="ratingStar"></li>
-                            <li><img src="http://www.w3.org/2000/svg/star.svg" alt="Star Rating" class="ratingStar"></li>
-                            <li><img src="http://www.w3.org/2000/svg/star.svg" alt="Star Rating" class="ratingStar"></li>
+                            <div color="warn" value="5" readonly="" class="sc-e02ba328-0 gSOdBv"><svg width="15"
+                                    height="15" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round"
+                                    stroke-linejoin="round" fill="url(#star-0.7727068980736143)"
+                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E" class="feather feather-star">
+                                    <defs>
+                                        <linearGradient id="star-0.7727068980736143">
+                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"></stop>
+                                        </linearGradient>
+                                    </defs>
+                                    <polygon
+                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                    </polygon>
+                                </svg><svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
+                                    stroke-linecap="round" stroke-linejoin="round" fill="url(#star-0.04046454536049926)"
+                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E" class="feather feather-star">
+                                    <defs>
+                                        <linearGradient id="star-0.04046454536049926">
+                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"></stop>
+                                        </linearGradient>
+                                    </defs>
+                                    <polygon
+                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                    </polygon>
+                                </svg><svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
+                                    stroke-linecap="round" stroke-linejoin="round" fill="url(#star-0.8729094346006505)"
+                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E" class="feather feather-star">
+                                    <defs>
+                                        <linearGradient id="star-0.8729094346006505">
+                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"></stop>
+                                        </linearGradient>
+                                    </defs>
+                                    <polygon
+                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                    </polygon>
+                                </svg><svg width="15" height="15" stroke-width="2" viewBox="0 0 24 24"
+                                    stroke-linecap="round" stroke-linejoin="round" fill="url(#star-0.9732772316888592)"
+                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E" class="feather feather-star">
+                                    <defs>
+                                        <linearGradient id="star-0.9732772316888592">
+                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"></stop>
+                                        </linearGradient>
+                                    </defs>
+                                    <polygon
+                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                    </polygon>
+                                </svg>
+                                <svgwidth="15" height="15" stroke-width="2" viewbox="0 0 24 24" stroke-linecap="round"
+                                    stroke-linejoin="round" fill="url(#star-0.49358670042043573)"
+                                    xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E" class="feather feather-star">
+                                    <defs>
+                                        <lineargradient id="star-0.49358670042043573">
+                                            <stop offset="1" stop-color="#FFCD4E"></stop>
+                                            <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"></stop>
+                                        </lineargradient>
+                                    </defs>
+                                    <polygon
+                                        points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                    </polygon>
+
+                                </svgwidth="15">
+                            </div>
                         </ul>
                         <div class="divider"></div>
                         <h6 class="sidebarHeading">Colors</h6>
@@ -106,7 +169,7 @@
         </div>
     </main>
 
-   <?php require("./layouts/footer.php"); ?>
+    <?php require("./layouts/footer.php"); ?>
 
 </body>
 
