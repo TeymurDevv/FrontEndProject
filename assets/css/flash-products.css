@@ -175,4 +175,13 @@
     margin-bottom: 0;
     
   }
+  
+  .stage{
+    display: flex;
+    flex-flow: wrap;
+    margin-top: -4px;
+    margin-bottom: -4px;
+    align-items: center;
+    justify-content: center;
+  }
 
