@@ -10,6 +10,8 @@
   <link rel="stylesheet" href="./assets/css/header2.css">
   <link rel="stylesheet" href="./assets/css/sidebar.css">
   <link rel="stylesheet" href="./assets/css/footer.css">
+  <link rel="stylesheet" href="./assets/css/single-product.css">
+  link
   <title>Document</title>
 </head>
 
