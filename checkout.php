@@ -37,11 +37,11 @@
                         2. Details
                     </div>
 
-                    <div class="passed-line">
+                    <div class="un-passed-line">
 
                     </div>
 
-                    <div>
+                    <div class="stage-unpassed">
                         3. Payment
                     </div>
 
