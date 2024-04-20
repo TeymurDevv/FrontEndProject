@@ -21,7 +21,7 @@
 
     <main>
 
-        <div class="container">
+        <div class="container custom-container">
             <div class="col-lg-8">
 
                 <div class="stage">
@@ -45,11 +45,11 @@
                         3. Payment
                     </div>
 
-                    <div>
+                    <div class="un-passed-line">
 
                     </div>
 
-                    <div>
+                    <div class="stage-unpassed">
                         4. Renew
                     </div>
                 </div>

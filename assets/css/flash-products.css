@@ -230,3 +230,8 @@
     font-size: 14px;
     font-weight: 600;
   }
+
+  .custom-container{
+    margin: 2rem auto;
+    max-width: 1200px;
+  }
