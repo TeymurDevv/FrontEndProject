@@ -141,6 +141,9 @@
                                         <label for="address" class="form-label">Address 1</label>
                                         <input class="form-input" type="text" name="address" id="address">
                                     </div>
+
+                                    <button type="button" class="cart-btn">Back to Cart</button>
+
                                 </div>
 
                                 <div class="col-lg-6">
@@ -163,13 +166,16 @@
                                         <label for="address2" class="form-label">Address 2</label>
                                         <input class="form-input" type="text" name="address2" id="address2">
                                     </div>
+
+                                    <button type="button" class="checkout-btn">Proceed to Payment</button>
+
                                 </div>
 
                             </div>
-
                         </div>
                     </div>
                 </div>
+                
 
             </div>
             <div class="col-lg-4">
