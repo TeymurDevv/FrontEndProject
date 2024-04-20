@@ -145,3 +145,34 @@
     font-size: 14px;
     border-radius: 5px;
   }
+
+  .wish-box{
+    box-shadow: rgba(3, 0, 71, 0.09) 0px 1px 3px;
+    background-color: rgb(255, 255, 255);
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 1.5rem;
+    color: rgb(43, 52, 69);
+    border-radius: 8px;
+  }
+
+  .title{
+    padding: 26px 30px 1rem;
+    color: rgb(125, 135, 156);
+    font-size: 12px;
+  }
+
+  .wish-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(233, 69, 96);
+    position: relative;
+    transition: all 150ms ease-in-out 0s;
+    color: rgb(233, 69, 96);
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin-bottom: 0;
+    
+  }
+
