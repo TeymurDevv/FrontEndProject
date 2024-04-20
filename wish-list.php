@@ -32,7 +32,7 @@
 
                     <div class="wish-box gap-3 mt-5 mb-3">
                     
-                        <div class="title">
+                        <div class="wish-title">
                             DASHBOARD
                         </div>
 
@@ -82,7 +82,7 @@
 
                     <div class="wish-box gap-3 mt-5 mb-3">
                     
-                    <div class="title">
+                    <div class="wish-title">
                         ACCOUNT SETTINGS
                     </div>
 
