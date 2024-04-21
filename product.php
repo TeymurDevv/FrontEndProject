@@ -459,7 +459,7 @@
                 </div>
                 <div class="col-lg-9">
                     <div class="row">
-                    <div class="flash-card col-lg-4 col-sm-6 position-relative " data-id="1">
+                    <div class="flash-card col-lg-4 col-sm-6 position-relative mb-3 " data-id="1">
                         <div class="imageSection">
                             <div class="icons">25<!-- -->% off</div>
                             <img src="./assets/img/flash-1.webp" alt="">
@@ -563,7 +563,7 @@
                         </div>
                     </div>
 
-                    <div class="flash-card col-lg-4 col-sm-6 position-relative " data-id="1">
+                    <div class="flash-card col-lg-4 col-sm-6 position-relative mb-3 " data-id="1">
                         <div class="imageSection">
                             <div class="icons">25<!-- -->% off</div>
                             <img src="./assets/img/flash-1.webp" alt="">
@@ -667,7 +667,7 @@
                         </div>
                     </div>
 
-                    <div class="flash-card col-lg-4 col-sm-6 position-relative " data-id="1">
+                    <div class="flash-card col-lg-4 col-sm-6 position-relative mb-3 " data-id="1">
                         <div class="imageSection">
                             <div class="icons">25<!-- -->% off</div>
                             <img src="./assets/img/flash-1.webp" alt="">
@@ -771,7 +771,7 @@
                         </div>
                     </div>
 
-                    <div class="flash-card col-lg-4 col-sm-6 position-relative " data-id="1">
+                    <div class="flash-card col-lg-4 col-sm-6 position-relative mb-3 " data-id="1">
                         <div class="imageSection">
                             <div class="icons">25<!-- -->% off</div>
                             <img src="./assets/img/flash-1.webp" alt="">
@@ -875,7 +875,7 @@
                         </div>
                     </div>
 
-                    <div class="flash-card col-lg-4 col-sm-6 position-relative " data-id="1">
+                    <div class="flash-card col-lg-4 col-sm-6 position-relative mb-3 " data-id="1">
                         <div class="imageSection">
                             <div class="icons">25<!-- -->% off</div>
                             <img src="./assets/img/flash-1.webp" alt="">
@@ -979,7 +979,7 @@
                         </div>
                     </div>
 
-                    <div class="flash-card col-lg-4 col-sm-6 position-relative " data-id="1">
+                    <div class="flash-card col-lg-4 col-sm-6 position-relative mb-3 " data-id="1">
                         <div class="imageSection">
                             <div class="icons">25<!-- -->% off</div>
                             <img src="./assets/img/flash-1.webp" alt="">
