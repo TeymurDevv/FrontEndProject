@@ -432,3 +432,14 @@
     margin-top: 0px;
     color: rgb(125, 135, 156);
   }
+  .right-section{
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+  }
+  .sort-by-text{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-right: 1rem;
+    color: rgb(125, 135, 156);
+  }

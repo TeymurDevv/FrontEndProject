@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="./assets/css/header2.css">
     <link rel="stylesheet" href="./assets/css/sidebar.css">
     <link rel="stylesheet" href="./assets/css/footer.css">
+    <link rel="stylesheet" href="./assets/css/flash-products.css">
 
     <?php 
     require("./layouts/header.php");
@@ -24,11 +25,14 @@
         <div class="container pt-1">
 
             <div class="searching-for">
-                <div>
-                    <h5 class="search-text">Searching for “ mobile phone ”</h5>
-                    <p class="result-count-text">48 results found</p>
+                <div class="left-section">
+                    <div>
+                        <h5 class="search-text">Searching for “ mobile phone ”</h5>
+                        <p class="result-count-text">48 results found</p>
+                    </div>
                 </div>
             </div>
+
 
             <div class="row">
                 <div class="col-lg-3">
