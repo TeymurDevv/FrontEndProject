@@ -23,6 +23,21 @@
     <main>
         <div class="container pt-1">
 
+            <div class="searching-for">
+                <div>
+                    <h5 class="search-text">Searching for “ mobile phone ”</h5>
+                    <p class="result-count-text">48 results found</p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-3">
+
+                </div>
+                <div class="col-lg-9">
+
+                </div>
+            </div>
         </div>        
     </main>
 
