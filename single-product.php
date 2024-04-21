@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="./assets/css/header2.css">
   <link rel="stylesheet" href="./assets/css/sidebar.css">
   <link rel="stylesheet" href="./assets/css/footer.css">
+  <link rel="stylesheet" href="./assets/css/flash-products.css">
   <link rel="stylesheet" href="./assets/css/single-product.css">
   link
   <title>Document</title>
@@ -23,416 +24,258 @@
     require("./layouts/sidebar.php");
     ?>
 
-  <main>
-    <section class="page-content">
-      <section class="car-info flex-column ">
-        <div class="top-side d-flex w-100">
-          <div class="img">
-            <img width="568px" src="./assets/img/1.Ford2019.png" alt="">
-          </div>
-          <div class="info w-100 flex-column  gap-4">
-            <h1 class="open-sans text-slate-800 font-700 " style="font-size: 30px;">Lord 2019</h1>
-            <span class="open-sans text-sm text-gray-400 ">Brand: <span class="text-slate-800 font-700 ">Ziaomi</span>
-            </span>
-            <div class="rating-side flex gap-1 items-center">
-              <span class="open-sans text-sm text-gray-400">Rated:</span>
-              <div class="stars">
-                <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                <span class="open-sans text-sm ml-1">(50)</span>
-              </div>
+<main style="background-color: rgb(246, 249, 252);">
+        <div class="container">
+            <div class="row mb-5 ">
+                <div class="col-lg-6">
+                    <div class="imageHere mb-5 ">
+                        <img src="./assets/img/1.Ford2019.png" alt="">
+                    </div>
+                    <div class="d-flex thisTObe">
+                        <div class="imageWithSmall">
+                            <img src="./assets/img/1.Ford2019.png" style="width: 100%;" alt="">
+                        </div>
+                        <div class="imageWithSmall">
+                            <img src="./assets/img/1.Ford2019.png" style="width: 100%;" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="allWritten">
+                        <h1 class="designToH1">Lord 2019</h1>
+                        <div class="brand mb-3">
+                            <span style="    color: rgb(125, 135, 156);
+                            font-size: 14px;">Brand:</span>
+                            <span style="    margin-left: 8px;
+                            font-weight: 600;
+                            font-size: 14px;">Ziaomi</span>
+                        </div>
+                        <div class="brand2 d-flex gap-2 ">
+                            <span style="    color: rgb(125, 135, 156);
+                            font-size: 14px;">Rated:</span>
+                            <div class="sc-446d69a0-0 jVuBQt">
+                                <div color="warn" value="4" readonly="" class="sc-e02ba328-0 gSOdBv"><svg width="18"
+                                        height="18" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round"
+                                        stroke-linejoin="round" fill="url(#star-0.6072427548850059)"
+                                        xmlns="http://www.w3.org/2000/svg" stroke="#FFCD4E"
+                                        class="feather feather-star">
+                                        <defs>
+                                            <linearGradient id="star-0.6072427548850059">
+                                                <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"></stop>
+                                            </linearGradient>
+                                        </defs>
+                                        <polygon
+                                            points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                        </polygon>
+                                    </svg><svg width="18" height="18" stroke-width="2" viewBox="0 0 24 24"
+                                        stroke-linecap="round" stroke-linejoin="round"
+                                        fill="url(#star-0.000159086622664395)" xmlns="http://www.w3.org/2000/svg"
+                                        stroke="#FFCD4E" class="feather feather-star">
+                                        <defs>
+                                            <linearGradient id="star-0.000159086622664395">
+                                                <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"></stop>
+                                            </linearGradient>
+                                        </defs>
+                                        <polygon
+                                            points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                        </polygon>
+                                    </svg><svg width="18" height="18" stroke-width="2" viewBox="0 0 24 24"
+                                        stroke-linecap="round" stroke-linejoin="round"
+                                        fill="url(#star-0.300844888425287)" xmlns="http://www.w3.org/2000/svg"
+                                        stroke="#FFCD4E" class="feather feather-star">
+                                        <defs>
+                                            <linearGradient id="star-0.300844888425287">
+                                                <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"></stop>
+                                            </linearGradient>
+                                        </defs>
+                                        <polygon
+                                            points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                        </polygon>
+                                    </svg><svg width="18" height="18" stroke-width="2" viewBox="0 0 24 24"
+                                        stroke-linecap="round" stroke-linejoin="round"
+                                        fill="url(#star-0.7288415392890486)" xmlns="http://www.w3.org/2000/svg"
+                                        stroke="#FFCD4E" class="feather feather-star">
+                                        <defs>
+                                            <linearGradient id="star-0.7288415392890486">
+                                                <stop offset="1" stop-color="#FFCD4E"></stop>
+                                                <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"></stop>
+                                            </linearGradient>
+                                        </defs>
+                                        <polygon
+                                            points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                        </polygon>
+                                    </svg><svg width="18" height="18" stroke-width="2" viewBox="0 0 24 24"
+                                        stroke-linecap="round" stroke-linejoin="round"
+                                        fill="url(#star-0.17038701291210212)" xmlns="http://www.w3.org/2000/svg"
+                                        stroke="#FFCD4E" class="feather feather-star">
+                                        <defs>
+                                            <linearGradient id="star-0.17038701291210212">
+                                                <stop offset="0" stop-color="#FFCD4E"></stop>
+                                                <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"></stop>
+                                            </linearGradient>
+                                        </defs>
+                                        <polygon
+                                            points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                        </polygon>
+                                    </svg></div>
+                            </div>
+                            <span>(50)</span>
+                        </div>
+                        <h2 style="    margin-bottom: 4px;
+                        margin-top: 20px;
+                        color: rgb(233, 69, 96);
+                        font-size: 25px;
+                        line-height: 1; font-weight: 700;">
+                            $168.00
+                        </h2>
+                        <span style="    font-size: 14px; margin-bottom: 2rem;" class="mb-4 ">Stock Available</span>
+                        <button class="buttonHere">Add to Cart</button>
+
+                        <div class="brand mb-3">
+                            <span style="    color: rgb(125, 135, 156);
+                            font-size: 14px;">Sold By:</span>
+                            <span style="    margin-left: 8px;
+                            font-weight: 600;
+                            font-size: 14px;">Mobile Store</span>
+                        </div>
+                    </div>
+
+                </div>
             </div>
-            <div class="stock">
-              <h2 class="text-red-500 font-700 open-sans" style="font-size: 25px;">$168.00</h2>
-              <p class="open-sans text-sm text-gray-400 ">Stock Available</p>
+            <div class="row">
+                <div class="wholeDiv d-flex  align-items-center " style="    margin-bottom: 26px  ">
+                    <h5 class="describe">Description</h5>
+                    <h5 class="review">Review (3)</h5>
+                </div>
+                <div class="d-flex flex-column thispartToBe">
+                    <h3 class="spec">Specification:</h3>
+                    <span>Brand: Beats </span>
+                    <span>Model: S450 </span>
+                    <span>Wireless Bluetooth Headset </span>
+                    <span>FM Frequency Response: 87.5 – 108 MHz </span>
+                    <span>Feature: FM Radio, Card Supported (Micro SD / TF) </span>
+                    <span class="mb-5 ">Made in China </span>
+                    <h3 class="spec">Frequently Bought Together</h3>
+                </div>
+                <div class="cardsSpec d-flex gap-3 align-items-center mb-5 ">
+                    <div class="mycard2">
+                        <img src="./assets/img/9.webp" alt="">
+                        <h4 class="camera" style="text-align: start;">Tony TV 1080p</h4>
+                        <div class="priceShow d-flex gap-2">
+                            <span class="priceSmall">$258.54</span>
+                            <span class="oldPrice"><del>$278.00</del></span>
+                        </div>
+                    </div>
+                    <span style="    color: rgb(125, 135, 156);
+                    font-size: 25px;">+</span>
+                    <div class="mycard2">
+                        <img src="./assets/img/9.webp" alt="">
+                        <h4 class="camera" style="text-align: start;">Tony TV 1080p</h4>
+                        <div class="priceShow d-flex gap-2">
+                            <span class="priceSmall">$258.54</span>
+                            <span class="oldPrice"><del>$278.00</del></span>
+                        </div>
+                    </div>
+                    <span style="    color: rgb(125, 135, 156);
+                    font-size: 25px;">+</span>
+                    <div class="mycard2">
+                        <img src="./assets/img/9.webp" alt="">
+                        <h4 class="camera" style="text-align: start;">Tony TV 1080p</h4>
+                        <div class="priceShow d-flex gap-2">
+                            <span class="priceSmall">$258.54</span>
+                            <span class="oldPrice"><del>$278.00</del></span>
+                        </div>
+                    </div>
+                    <span style="    color: rgb(125, 135, 156);
+                    font-size: 25px;">+</span>
+                    <div class="mycard2">
+                        <img src="./assets/img/9.webp" alt="">
+                        <h4 class="camera" style="text-align: start;">Tony TV 1080p</h4>
+                        <div class="priceShow d-flex gap-2">
+                            <span class="priceSmall">$258.54</span>
+                            <span class="oldPrice"><del>$278.00</del></span>
+                        </div>
+                    </div>
+                    <span style="    color: rgb(125, 135, 156);
+                    font-size: 25px;">=</span>
+                    <div class="boxPrice">
+                        <h3 style="color: rgb(233, 69, 96);
+                        font-size: 20px; font-weight: 700;">$2500</h3>
+                        <h5 style="margin-bottom: 1rem;
+                        color: rgb(125, 135, 156);
+                        font-size: 14px;">Save $500 </h5>
+                        <div class="elemtsButtons d-flex align-items-center gap-3 ">
+                            <button class="buttonHere">add to card</button>
+                            <button class="newOneButtonHere" style="    margin-top: -6px;
+                            ">Add to List</button>
+                        </div>
+                    </div>
+                </div>
+                <h3 class="spec">Also Available at</h3>
+                <div class="allInThis mb-5 " style="width: 900px;">
+                    <div class="row">
+                        <div class="col-3">
+                            <div class="smallCardHere d-flex justify-content-center align-items-center flex-column ">
+                                <img src="./assets/img/propic.png" alt="">
+                                <h4 style="margin-top: 0.75rem;
+                        color: rgb(55, 63, 80);
+                        width: inherit;
+                        font-weight: 600;
+                        font-size: 17px;
+                        text-align: center">Scarlett Beauty</h4>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="smallCardHere d-flex justify-content-center align-items-center flex-column ">
+                                <img src="./assets/img/propic.png" alt="">
+                                <h4 style="margin-top: 0.75rem;
+                        color: rgb(55, 63, 80);
+                        width: inherit;
+                        font-weight: 600;
+                        font-size: 17px;
+                        text-align: center">Scarlett Beauty</h4>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="smallCardHere d-flex justify-content-center align-items-center flex-column ">
+                                <img src="./assets/img/propic.png" alt="">
+                                <h4 style="margin-top: 0.75rem;
+                        color: rgb(55, 63, 80);
+                        width: inherit;
+                        font-weight: 600;
+                        font-size: 17px;
+                        text-align: center">Scarlett Beauty</h4>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="smallCardHere d-flex justify-content-center align-items-center flex-column ">
+                                <img src="./assets/img/propic.png" alt="">
+                                <h4 style="margin-top: 0.75rem;
+                        color: rgb(55, 63, 80);
+                        width: inherit;
+                        font-weight: 600;
+                        font-size: 17px;
+                        text-align: center">Scarlett Beauty</h4>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <h3 class="spec">Related Products</h3>
+                <div class="allThisCarHere">
+                    <div class="row">
+                        <div class="col-lg-3 col-sm-6">
+                        </div>
+                    </div>
+                </div>
             </div>
-            <button class="bg-rose-400 text-white rounded open-sans  font-700  text-sm cursor-pointer ">
-              Add to Card
-            </button>
-            <div class="made d-flex gap-1 my-4">
-              <span class="open-sans text-sm text-gray-400 ">Sold By:</span>
-              <span class="open-sans text-sm text-slate-800 font-700 cursor-pointer ">Mobile Store</>
-            </div>
-          </div>
+
         </div>
-        <div class="bottom flex justify-center w-50-percentage ">
-          <div class="content flex gap-1">
-            <div class="logo cursor-pointer bordered ">
-              <img width="65" src="src/assets/img/1.Ford2019.png" alt="">
-            </div>
-            <div class="logo cursor-pointer">
-              <img width="65" src="src/assets/img/1.Ford2019.png" alt="">
-            </div>
-          </div>
-        </div>
-      </section>
-
-
-      <section class="tabindex-section">
-        <ul class="nav nav-tabs" id="myTab" role="tablist">
-          <li class="nav-item" role="presentation">
-            <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane"
-              type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Descripion</button>
-          </li>
-          <li class="nav-item" role="presentation">
-            <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane"
-              type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">Review(3)</button>
-          </li>
-        </ul>
-
-
-        <div class="tab-content" id="myTabContent">
-          <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab"
-            tabindex="0">
-            <h2 class="my-4 open-sans font-700" style="font-size: 20px;">Specification:</h2>
-            <p class="open-sans text-sm text-slate-800  p-0">Brand: Beats</p>
-            <p class="open-sans text-sm text-slate-800  p-0">Model: S450</p>
-            <p class="open-sans text-sm text-slate-800  p-0">Wireless Bluetooth Headset</p>
-            <p class="open-sans text-sm text-slate-800  p-0">FM Frequency Response: 87.5 – 108 MHz</p>
-            <p class="open-sans text-sm text-slate-800  p-0">Feature: FM Radio, Card Supported (Micro SD / TF)</p>
-            <p class="open-sans text-sm text-slate-800  p-0">Made in China</p>
-          </div>
-          <div class="tab-pane fade review-container" id="profile-tab-pane" role="tabpanel"
-            aria-labelledby="profile-tab" tabindex="0">
-            <div class="avar-side">
-              <div class="top flex gap-2-5">
-                <div class="top-left">
-                  <img src="src/assets/img/avatar.png" width="48px" alt="">
-                </div>
-                <div class="top-right">
-                  <h5 class="open-sans text-base font-700 text-slate-800 m-0 ">Jannie Schumm </h5>
-                  <div class="stars-container mb-2 flex items-center gap-1">
-                    <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                    <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                    <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                    <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                    <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                    <h6 class="open-sans text-sm mt-2">4.7</h6>
-                    <span class="open-sans text-sm text-gray-400">3.3 years ago</span>
-                  </div>
-                </div>
-              </div>
-              <div class="bottom">
-                <p class="open-sans text-sm text-gray-400 " style="width: 48%;">Lorem ipsum dolor sit amet, consectetur
-                  adipiscing elit. Varius massa id ut mattis. Facilisis vitae
-                  gravida egestas ac account.</p>
-              </div>
-              <div class="top flex gap-2-5">
-                <div class="top-left">
-                  <img src="src/assets/img/avatar.png" width="48px" alt="">
-                </div>
-                <div class="top-right">
-                  <h5 class="open-sans text-base font-700 text-slate-800 m-0 ">Jannie Schumm </h5>
-                  <div class="stars-container mb-2 flex items-center gap-1">
-                    <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                    <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                    <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                    <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                    <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                    <h6 class="open-sans text-sm mt-2">4.7</h6>
-                    <span class="open-sans text-sm text-gray-400">3.3 years ago</span>
-                  </div>
-                </div>
-              </div>
-              <div class="bottom">
-                <p class="open-sans text-sm text-gray-400 " style="width: 48%;">Lorem ipsum dolor sit amet, consectetur
-                  adipiscing elit. Varius massa id ut mattis. Facilisis vitae
-                  gravida egestas ac account.</p>
-              </div>
-              <div class="top flex gap-2-5">
-                <div class="top-left">
-                  <img src="src/assets/img/avatar.png" width="48px" alt="">
-                </div>
-                <div class="top-right">
-                  <h5 class="open-sans text-base font-700 text-slate-800 m-0 ">Jannie Schumm </h5>
-                  <div class="stars-container mb-2 flex items-center gap-1">
-                    <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                    <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                    <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                    <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                    <i class="fa-solid fa-star text-yellow-500 text-xs"></i>
-                    <h6 class="open-sans text-sm mt-2">4.7</h6>
-                    <span class="open-sans text-sm text-gray-400">3.3 years ago</span>
-                  </div>
-                </div>
-              </div>
-              <div class="bottom">
-                <p class="open-sans text-sm text-gray-400 " style="width: 48%;">Lorem ipsum dolor sit amet, consectetur
-                  adipiscing elit. Varius massa id ut mattis. Facilisis vitae
-                  gravida egestas ac account.</p>
-              </div>
-            </div>
-            <div class="form-side my-12">
-              <h2 class="open-sans text-slate-800 font-700" style="font-size:25px;">Write a Review for this product</h2>
-              <p class="open-sans text-gray-700 font-700">Your Rating
-                <span class="text-red-500 text-xl ">*</span>
-              </p>
-              <div class="stars-container mb-2 flex items-center gap-1 mb-4">
-                <i class="fa-solid fa-star text-yellow-500 "></i>
-                <i class="fa-solid fa-star text-yellow-500 "></i>
-                <i class="fa-solid fa-star text-yellow-500 "></i>
-                <i class="fa-solid fa-star text-yellow-500 "></i>
-                <i class="fa-solid fa-star text-yellow-500 "></i>
-              </div>
-              <p class="open-sans text-gray-700 font-700">Your Review
-                <span class="text-red-500 text-xl ">*</span>
-              </p>
-              <textarea required></textarea>
-              <button type="submit" disabled>Submit</button>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="reklam-section mt-12 ">
-        <div class="title-side">
-          <h3 class="open-sans text-slate-800 font-700 mb-6" style="font-size:20px;">Frequently Bought Together</h3>
-        </div>
-        <div class="reklam-cards-container flex gap-16">
-          <div class="short-cards flex gap-10">
-            <div class="card-item card-1 flex-col">
-              <div class="top">
-                <img src="src/assets/img/single-product-img.webp" width="138px" height="143px" alt="">
-                <div class="bottom">
-                  <p class="open-sans text-sm my-1">Premium Grocery C...</p>
-                  <span class="open-sans text-sm text-red-500  ">$222.50</span>
-                  <span class="open-sans text-sm text-gray-500" style="text-decoration: line-through;">$250.00</span>
-                </div>
-              </div>
-            </div>
-            <div class="card-item  card-2 flex-col">
-              <div class="top">
-                <img src="src/assets/img/single-product-img.webp" width="138px" height="143px" alt="">
-                <div class="bottom">
-                  <p class="open-sans text-sm my-1">Premium Grocery C...</p>
-                  <span class="open-sans text-sm text-red-500  ">$222.50</span>
-                  <span class="open-sans text-sm text-gray-500" style="text-decoration: line-through;">$250.00</span>
-                </div>
-              </div>
-            </div>
-            <div class="card-item card-3 flex-col">
-              <div class="top">
-                <img src="src/assets/img/single-product-img.webp" width="138px" height="143px" alt="">
-                <div class="bottom">
-                  <p class="open-sans text-sm my-1">Premium Grocery C...</p>
-                  <span class="open-sans text-sm text-red-500  ">$222.50</span>
-                  <span class="open-sans text-sm text-gray-500" style="text-decoration: line-through;">$250.00</span>
-                </div>
-              </div>
-            </div>
-            <div class="card-item card-4  flex-col">
-              <div class="top">
-                <img src="src/assets/img/single-product-img.webp" width="138px" height="143px" alt="">
-                <div class="bottom">
-                  <p class="open-sans text-sm my-1">Premium Grocery C...</p>
-                  <span class="open-sans text-sm text-red-500  ">$222.50</span>
-                  <span class="open-sans text-sm text-gray-500" style="text-decoration: line-through;">$250.00</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="large-card">
-            <div class="card-item flex justify-center items-center d-flex-col">
-              <div class="text">
-                <h3 class="open-sans text-rose-500 m-0 font-700" style="font-size: 20px;">$2500</h3>
-                <p class="open-sans text-sm text-gray-500 mt-1 mb-4 ">Save $500</p>
-              </div>
-              <div class="btn-side flex ">
-                <button class="bt-1">Add to Cart</button>
-                <button class="bt-2">Add to List</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section class="banner-side mt-12">
-        <div class="title-side">
-          <h3 class="open-sans text-slate-800 font-700 mb-6" style="font-size:20px;">Also Available at</h3>
-        </div>
-        <div class="banner-cards flex gap-5">
-          <div class="card-item flex-col items-center gap-2-5 justify-center ">
-            <img width="48px" src="src/assets/img/bike.png" alt="">
-            <p class="open-sans text-slate-800  " style="font-size: 17px;">Scarlett Beauty</p>
-          </div>
-          <div class="card-item flex-col items-center gap-2-5 justify-center ">
-            <img width="48px" src="src/assets/img/bike.png" alt="">
-            <p class="open-sans text-slate-800  " style="font-size: 17px;">Scarlett Beauty</p>
-          </div>
-          <div class="card-item flex-col items-center gap-2-5 justify-center ">
-            <img width="48px" src="src/assets/img/bike.png" alt="">
-            <p class="open-sans text-slate-800  " style="font-size: 17px;">Scarlett Beauty</p>
-          </div>
-          <div class="card-item flex-col items-center gap-2-5 justify-center ">
-            <img width="48px" src="src/assets/img/bike.png" alt="">
-            <p class="open-sans text-slate-800  " style="font-size: 17px;">Scarlett Beauty</p>
-          </div>
-        </div>
-      </section>
-
-      <section class="flash-deal-section flex-col relative mb-10">
-        <div class="deals-title flex justify-between mt-8">
-          <div class="heading flex gap-2-5 items-center">
-            <h2 class="open-sans font-700" style="font-size: 20px;">Related Products</h2>
-          </div>
-        </div>
-
-        <div class="deals-card-side flex gap-5">
-          <div class="card-item flex-col">
-            <div class="card-top ">
-              <div class="sub-top flex justify-between p-4">
-                <div class="first">
-                  <span class=" text-white open-sans">
-                    25% off
-                  </span>
-                </div>
-                <div class="second flex-col gap-2-5">
-                  <i class="fa-solid fa-eye text-cyan-950"></i>
-                  <i class="fa-solid fa-heart text-gray-900"></i>
-                </div>
-              </div>
-            </div>
-
-            <div class="card-info ">
-              <h3 class="open-sans text-sm text-gray-800">NikeCourt Zoom Vapor Cage</h3>
-              <div class="star-container py-2">
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-regular fa-star" style="color: #FFD43B;"></i>
-              </div>
-              <div class="rating flex justify-between items-center">
-                <div class="cost">
-                  <span class="text-red-500 open-sans text-sm">$187.50</span>
-                  <s class="open-sans text-sm text-gray-500">$250.00</s>
-                </div>
-                <div class="card">
-                  <span>
-                    <i class="fa-solid fa-plus"></i>
-                  </span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="card-item flex-col">
-            <div class="card-top ">
-              <div class="sub-top flex justify-between p-4">
-                <div class="first">
-                  <span class=" text-white open-sans">
-                    25% off
-                  </span>
-                </div>
-                <div class="second flex-col gap-2-5">
-                  <i class="fa-solid fa-eye text-cyan-950"></i>
-                  <i class="fa-solid fa-heart text-gray-900"></i>
-                </div>
-              </div>
-            </div>
-
-            <div class="card-info ">
-              <h3 class="open-sans text-sm text-gray-800">NikeCourt Zoom Vapor Cage</h3>
-              <div class="star-container py-2">
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-regular fa-star" style="color: #FFD43B;"></i>
-              </div>
-              <div class="rating flex justify-between items-center">
-                <div class="cost">
-                  <span class="text-red-500 open-sans text-sm">$187.50</span>
-                  <s class="open-sans text-sm text-gray-500">$250.00</s>
-                </div>
-                <div class="card">
-                  <span>
-                    <i class="fa-solid fa-plus"></i>
-                  </span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="card-item flex-col">
-            <div class="card-top ">
-              <div class="sub-top flex justify-between p-4">
-                <div class="first">
-                  <span class=" text-white open-sans">
-                    25% off
-                  </span>
-                </div>
-                <div class="second flex-col gap-2-5">
-                  <i class="fa-solid fa-eye text-cyan-950"></i>
-                  <i class="fa-solid fa-heart text-gray-900"></i>
-                </div>
-              </div>
-            </div>
-
-            <div class="card-info ">
-              <h3 class="open-sans text-sm text-gray-800">NikeCourt Zoom Vapor Cage</h3>
-              <div class="star-container py-2">
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-regular fa-star" style="color: #FFD43B;"></i>
-              </div>
-              <div class="rating flex justify-between items-center">
-                <div class="cost">
-                  <span class="text-red-500 open-sans text-sm">$187.50</span>
-                  <s class="open-sans text-sm text-gray-500">$250.00</s>
-                </div>
-                <div class="card">
-                  <span>
-                    <i class="fa-solid fa-plus"></i>
-                  </span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="card-item flex-col">
-            <div class="card-top ">
-              <div class="sub-top flex justify-between p-4">
-                <div class="first">
-                  <span class=" text-white open-sans">
-                    25% off
-                  </span>
-                </div>
-                <div class="second flex-col gap-2-5">
-                  <i class="fa-solid fa-eye text-cyan-950"></i>
-                  <i class="fa-solid fa-heart text-gray-900"></i>
-                </div>
-              </div>
-            </div>
-
-            <div class="card-info ">
-              <h3 class="open-sans text-sm text-gray-800">NikeCourt Zoom Vapor Cage</h3>
-              <div class="star-container py-2">
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-solid fa-star text-yellow-500"></i>
-                <i class="fa-regular fa-star" style="color: #FFD43B;"></i>
-              </div>
-              <div class="rating flex justify-between items-center">
-                <div class="cost">
-                  <span class="text-red-500 open-sans text-sm">$187.50</span>
-                  <s class="open-sans text-sm text-gray-500">$250.00</s>
-                </div>
-                <div class="card">
-                  <span>
-                    <i class="fa-solid fa-plus"></i>
-                  </span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-    </section>
-  </main>
+       
+    </main>
 
   <?php require("./layouts/footer.php"); ?>
 
