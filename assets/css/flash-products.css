@@ -443,3 +443,115 @@
     margin-right: 1rem;
     color: rgb(125, 135, 156);
   }
+
+  .hiddenClass {
+    display: none;
+  }
+  
+  .allProductsBar {
+    box-shadow: rgba(3, 0, 71, 0.09) 0px 1px 3px;
+    background-color: rgb(255, 255, 255);
+    padding: 1rem;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 55px;
+  }
+  
+  .h5 {
+    margin-bottom: 0;
+    font-weight: 600;
+    font-size: 16px;
+  }
+  
+  .dropdownProduct {
+    border: 1px solid hsl(0, 0%, 70%);
+    padding: 0.4rem;
+    border-radius: 6px;
+  }
+  
+  .categories2 {
+    position: absolute;
+    right: 86px;
+    top: 54%;
+    transform: translateY(-50%);
+    font-size: 14px;
+    color: #7D879C;
+    border-left: 1px solid rgb(218, 225, 231);
+    height: 29px;
+    cursor: pointer;
+    min-width: 90px;
+    padding-left: 1.25rem;
+    padding-right: 1rem;
+  }
+  
+  .content4 {
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+    max-width: 100%;
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 180px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 6px;
+    bottom: calc(100% - 403px);
+    right: 110px;
+  }
+  
+  .allSideBar {
+    box-shadow: rgba(3, 0, 71, 0.09) 0px 1px 3px;
+    background-color: rgb(255, 255, 255);
+    padding: 18px 27px;
+    border-radius: 8px;
+  }
+  .allSideBar h6 {
+    margin-bottom: 10px;
+    margin-top: 0px;
+    font-weight: 600;
+    font-size: 14px;
+  }
+  .allSideBar .something {
+    color: rgb(125, 135, 156);
+    font-size: 14px;
+  }
+  .allSideBar p {
+    color: rgb(125, 135, 156);
+    font-size: 14px;
+  }
+  .allSideBar .dropDownOFBar p {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    color: rgb(125, 135, 156);
+    font-size: 14px;
+  }
+  .allSideBar .border {
+    height: 1px;
+    background-color: rgb(243, 245, 249);
+    margin-top: 18px;
+    margin-bottom: 24px;
+  }
+  .allSideBar .priceChanger {
+    padding: 8px 12px;
+    height: 40px;
+    font-size: inherit;
+    color: rgb(43, 52, 69);
+    border-radius: 5px;
+    border: 1px solid rgb(218, 225, 231);
+    width: 50%;
+  }
+  .allSideBar li {
+    font-size: 14px;
+    margin-bottom: 0.8rem;
+  }
+  .allSideBar .colors div {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+  }

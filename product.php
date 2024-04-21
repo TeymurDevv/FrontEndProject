@@ -39,7 +39,7 @@
 
             <div class="row">
                 <div class="col-lg-3">
-                    <div class="allSideBar">
+                    <div class="allSideBar mb-3">
                         <h6>Categories</h6>
                         <div class="something d-flex justify-content-between ">
 
