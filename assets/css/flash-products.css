@@ -321,3 +321,10 @@
     font-size: 14px;
     border-radius: 5px;
   }
+
+  .total-price-box{
+    position: relative;
+    padding: 1.5rem 1.75rem;
+    box-shadow: rgba(3, 0, 71, 0.09) 0px 1px 3px;
+    background-color: rgb(255, 255, 255);
+  }
