@@ -327,4 +327,46 @@
     padding: 1.5rem 1.75rem;
     box-shadow: rgba(3, 0, 71, 0.09) 0px 1px 3px;
     background-color: rgb(255, 255, 255);
+    margin-top: 14px;
+  }
+  .invoice-item{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0.5rem;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .checkout-item-title{
+    color: rgb(125, 135, 156);
+  }
+
+
+  .total-box-margin{
+    margin-top: 54px;
+  }
+  .checkout-price{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1;
+  }
+  .checkout-float{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 1;
+  }
+  .invoice-design{
+    cursor: unset;
+    box-shadow: none;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+
+  .checkout-total-price{
+    margin-bottom: 1.5rem;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 1;
+    text-align: right;
   }
