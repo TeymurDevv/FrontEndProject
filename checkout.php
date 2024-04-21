@@ -221,6 +221,16 @@
                                         <div class="checkout-float">00</div>
                                     </div>
                                 </div>  
+                                
+                                <div class="checkout-total-price mt-4 mb-3">
+                                        $2610.00
+                                </div>
+
+                                <div class="checkout-voucher-input">
+                                    <input type="text" class="checkout-voucher-inp" name="voucher" placeholder="Voucher" id="voucher">
+                                </div>
+
+                                <button type="button" class="checkout-voucher-apply">Apply Voucher</button>
                             </div>
                         </div>
                     </div>

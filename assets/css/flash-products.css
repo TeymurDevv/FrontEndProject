@@ -370,3 +370,41 @@
     line-height: 1;
     text-align: right;
   }
+
+  .checkout-voucher-inp{
+    padding: 8px 12px;
+    height: 40px;
+    font-size: inherit;
+    color: rgb(43, 52, 69);
+    border-radius: 5px;
+    border: 1px solid rgb(218, 225, 231);
+    width: 100%;
+    outline: none;
+    font-family: inherit;
+    transition: 0.3s;
+}
+
+.checkout-voucher-inp:focus{
+    border-color: #E94560;
+  }
+  .checkout-voucher-apply{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    cursor: pointer;
+    font-weight: 600;
+    font-family: inherit;
+    background: transparent;
+    transition: all 150ms ease-in-out 0s;
+    line-height: 1;
+    padding: 10px 16px;
+    color: rgb(233, 69, 96);
+    border: 1px solid rgb(233, 69, 96);
+    height: 40px;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-top: 1rem;
+    margin-bottom: 30px;
+  }
