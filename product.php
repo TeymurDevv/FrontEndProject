@@ -30,9 +30,6 @@
                         <h5 class="search-text">Searching for “ mobile phone ”</h5>
                         <p class="result-count-text">48 results found</p>
                     </div>
-                    <div class="right-section">
-                        <p class="sort-by-text">Short by:</p>
-                    </div>
                 </div>
             </div>
 
